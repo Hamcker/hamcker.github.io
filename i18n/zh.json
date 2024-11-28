@@ -1,0 +1,38 @@
+{
+   "pageTitle": "H. Zakeri Miyab | 简历",
+   "summary": "摘要",
+   "married": "已婚",
+   "single": "单身",
+   "needVisa": "需要签证和赞助",
+   "haveVisa": "已持有欧盟工作签证",
+   "languageSkills": "语言技能",
+   "languages": {
+      "en-US": "英语",
+      "en-US_desc": "English",
+      "fa-IR": "波斯语",
+      "fa-IR_desc": "فارسی",
+      "az-AZ": "阿塞拜疆语",
+      "az-AZ_desc": "Azərbaycanca",
+      "tr-TR": "土耳其语",
+      "tr-TR_desc": "Türkçe",
+      "zh-CN": "中文",
+      "zh-CN_desc": "中文"
+   },
+   "socialMedia": "社交媒体",
+   "educations": "教育",
+   "levels": {
+      "0": "不了解",
+      "1": "初学者",
+      "2": "新手",
+      "3": "熟练",
+      "4": "精通",
+      "5": "专家"
+   },
+   "experiences": "经验",
+   "projects": "项目",
+   "role": "角色",
+   "challenges": "技术挑战",
+   "skills": "技能",
+   "print_slogan": "相信我！此页面适合打印 (A4)，点击看看魔法！",
+   "print": "打印"
+}

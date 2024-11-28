@@ -1,0 +1,653 @@
+{
+   "name": {
+      "en": "Hamed Zakeri Miyab",
+      "fa": "حامد ذاکری میاب",
+      "tr": "Hamit Zekeriya",
+      "de": "Hamed Zakeri Miyab",
+      "ar": "حامد ذاكري مياب",
+      "zh": "Hamed Zakeri Miyab"
+   },
+   "info": [
+      { "name": "Hamcker@gmail.com", "icon": "mail", "link": "mailto:Hamcker@gmail.com" },
+      { "name": "+90 (553) 833-7789", "icon": "call", "link": "tel:+90 (553) 833-7789" },
+      {
+         "name": "Istanbul / Turkey",
+         "icon": "location_on",
+         "link": "https://goo.gl/maps/mD9daa9vFSgcsrpP6"
+      },
+      { "name": "//Hamcker.com", "icon": "language", "link": "http://Hamcker.com" }
+   ],
+   "languages": [
+      { "name": "en-US", "level": 90, "mode": "buffer", "buffer": 95 },
+      { "name": "tr-TR", "level": 95 },
+      { "name": "fa-IR", "level": 100 },
+      { "name": "az-AZ", "level": 100 },
+      { "name": "zh-CN", "level": 5, "mode": "buffer", "buffer": 10 }
+   ],
+   "socialMedias": [
+      { "icon": "linkedin-in", "name": "/hamcker", "link": "https://www.linkedin.com/in/hamcker/" },
+      { "icon": "twitter", "name": "/hamcker", "link": "https://twitter.com/hamcker" },
+      { "icon": "github", "name": "/hamcker", "link": "https://github.com/hamcker" },
+      { "icon": "telegram", "name": "@hamcker", "link": "https://t.me/hamcker" },
+      { "icon": "whatsapp", "name": "+90(553)833-7789", "link": "https://wa.me/+905538337789" }
+   ],
+   "educations": [
+      {
+         "university": {
+            "en": "Non-Profit Bahar University, Mashhad/Iran",
+            "fa": "دانشگاه غیرانتفاعی بهار، مشهد/ایران",
+            "tr": "Kâr Amacı Gütmeyen Bahar Üniversitesi, Meşhed/İran",
+            "de": "Gemeinnützige Bahar-Universität, Maschhad/Iran",
+            "ar": "جامعة بهار غير الربحية، مشهد/إيران",
+            "zh": "非营利性巴哈尔大学，马什哈德/伊朗"
+         },
+         "degree": {
+            "en": "Bachelor's in Computer Software Engineering",
+            "fa": "کارشناسی مهندسی نرم‌افزار کامپیوتر",
+            "tr": "Bilgisayar Yazılım Mühendisliği Lisansı",
+            "de": "Bachelor in Computer Software Engineering",
+            "ar": "بكالوريوس في هندسة برمجيات الكمبيوتر",
+            "zh": "计算机软件工程学士学位"
+         },
+         "graduated": "2010-09-01T00:00:00.000Z"
+      },
+      {
+         "university": {
+            "en": "Technical School of Imam Ali (a.s), Gorgan/Iran",
+            "fa": "دانشکده فنی امام علی (ع)، گرگان/ایران",
+            "tr": "İmam Ali (a.s) Teknik Okulu, Gorgan/İran",
+            "de": "Technische Schule des Imam Ali (a.s), Gorgan/Iran",
+            "ar": "المدرسة الفنية للإمام علي (ع)، جرجان/إيران",
+            "zh": "伊玛目阿里（a.s）技术学校，伊朗戈尔甘"
+         },
+         "degree": {
+            "en": "Associate degree in Computer Software",
+            "fa": "کاردانی نرم‌افزار کامپیوتر",
+            "tr": "Bilgisayar Yazılımı Ön Lisans",
+            "de": "Assoziierter Abschluss in Computersoftware",
+            "ar": "درجة الدبلوم في البرمجيات الكمبيوترية",
+            "zh": "计算机软件副学士学位"
+         },
+         "graduated": "2007-09-01T00:00:00.000Z"
+      }
+   ],
+   "summary": {
+      "content": {
+         "en": "As a **seasoned software developer** with over **21 years of experience**, I bring a strong foundation in **full-stack development**, specializing in **.NET**, **Angular**, and **React**. My career is defined by a relentless drive for **innovation**, consistently introducing **efficient** and **cost-effective solutions** that transform development environments.\nPassionate about **continuous learning**, I actively adopt **emerging technologies** to ensure **scalable** and **robust software solutions**. Known for a **fresh perspective** and **creative problem-solving**, I excel at designing systems that align with both **technical** and **business objectives**.\n\nNow transitioning into **software architecture**, I aim to leverage my extensive **hands-on expertise** to design and implement **scalable**, **high-performance systems** that drive **organizational success**.\n",
+         "fa": "به عنوان یک **توسعه‌دهنده نرم‌افزار باتجربه** با بیش از **۲۱ سال تجربه**، دارای پایه‌ای قوی در **توسعه فول‌استک** هستم و در **.NET**، **Angular** و **React** تخصص دارم. حرفه من با تعهد بی‌وقفه به **نوآوری** تعریف شده است و به طور مداوم **راه‌حل‌های کارآمد** و **مقرون‌به‌صرفه‌ای** ارائه می‌دهم که محیط‌های توسعه را متحول می‌کند.\nبا اشتیاق به **یادگیری مداوم**، به‌طور فعال **فناوری‌های نوظهور** را به کار می‌گیرم تا **راه‌حل‌های مقیاس‌پذیر** و **مطمئن** ایجاد کنم. به دلیل داشتن **دیدگاه تازه** و **حل خلاقانه مسائل** شناخته شده‌ام و در طراحی سیستم‌هایی که با اهداف **فنی** و **تجاری** همسو هستند، مهارت دارم.\n\nاکنون در حال انتقال به **معماری نرم‌افزار** هستم و هدفم این است که از **تجربه عملی گسترده‌ام** برای طراحی و اجرای سیستم‌های **مقیاس‌پذیر** و **با عملکرد بالا** استفاده کنم که **موفقیت سازمانی** را به همراه دارند.\n",
+         "de": "Als **erfahrener Softwareentwickler** mit über **21 Jahren Erfahrung** verfüge ich über ein solides Fundament in der **Full-Stack-Entwicklung**, spezialisiert auf **.NET**, **Angular** und **React**. Meine Karriere ist geprägt von einem unermüdlichen Streben nach **Innovation**, indem ich konsequent **effiziente** und **kostengünstige Lösungen** einführe, die Entwicklungsumgebungen transformieren.\nMit Leidenschaft für **kontinuierliches Lernen** integriere ich aktiv **neue Technologien**, um **skalierbare** und **robuste Softwarelösungen** zu gewährleisten. Bekannt für einen **frischen Blickwinkel** und **kreative Problemlösungen**, bin ich in der Lage, Systeme zu entwerfen, die sowohl mit **technischen** als auch **geschäftlichen Zielen** übereinstimmen.\n\nIch wechsle nun in die **Softwarearchitektur** und strebe an, meine umfangreiche **praktische Erfahrung** zu nutzen, um **skalierbare**, **leistungsstarke Systeme** zu entwerfen und umzusetzen, die den **organisatorischen Erfolg** fördern.\n",
+         "tr": "**21 yıllık deneyime** sahip **deneyimli bir yazılım geliştirici** olarak, **.NET**, **Angular** ve **React** konularında uzmanlaşmış **tam yığın geliştirme** konusunda güçlü bir temele sahibim. Kariyerim, **yenilikçiliğe** olan bitmek bilmeyen bir tutku ile şekillendi ve sürekli olarak geliştirme ortamlarını dönüştüren **verimli** ve **maliyet-etkin çözümler** sundum.\n**Sürekli öğrenmeye** olan tutkuyla, **yeni teknolojileri** aktif bir şekilde benimseyerek **ölçeklenebilir** ve **sağlam yazılım çözümleri** sunuyorum. **Taze bir bakış açısı** ve **yaratıcı problem çözme** becerilerimle tanınıyorum ve hem **teknik** hem de **iş hedefleriyle** uyumlu sistemler tasarlamada ustayım.\n\nŞimdi **yazılım mimarisine** geçiyorum ve kapsamlı **uygulamalı deneyimimi**, **ölçeklenebilir**, **yüksek performanslı sistemler** tasarlayıp uygulayarak **kurumsal başarıyı** desteklemek için kullanmayı hedefliyorum.\n",
+         "ar": "كمطور برمجيات **مخضرم** يتمتع بأكثر من **21 عامًا من الخبرة**، أمتلك أساسًا قويًا في **تطوير البرمجيات الكاملة**، متخصصًا في **.NET** و **Angular** و **React**. تتسم مسيرتي المهنية بسعي دائم نحو **الابتكار**، حيث أقدم باستمرار **حلولاً فعالة** و **منخفضة التكلفة** تحول بيئات التطوير.\nبدافع من الشغف بـ **التعلم المستمر**، أتبنى **التقنيات الناشئة** لضمان تقديم **حلول برمجية قابلة للتوسع** و **موثوقة**. أنا معروف بامتلاكي **رؤية جديدة** و **قدرة إبداعية على حل المشكلات**، وأتميز بتصميم أنظمة تتوافق مع الأهداف **الفنية** و **التجارية**.\n\nأنتقل الآن إلى **هندسة البرمجيات** وأسعى لاستغلال خبرتي الواسعة **العملية** لتصميم وتنفيذ أنظمة **قابلة للتوسع** وعالية الأداء تدفع نحو **النجاح المؤسسي**.\n",
+         "zh": "作为一名拥有超过**21年经验**的**资深软件开发人员**，我在**全栈开发**方面拥有扎实的基础，专注于**.NET**、**Angular**和**React**。我的职业生涯以对**创新**的不懈追求为特点，不断引入**高效**且**具有成本效益的解决方案**，从而改变开发环境。\n热衷于**持续学习**，我积极采用**新兴技术**，以确保**可扩展**和**稳健的软件解决方案**。以**新颖视角**和**创造性问题解决能力**而著称，我擅长设计符合**技术**和**业务目标**的系统。\n\n现在我正向**软件架构**转型，旨在利用我丰富的**实践经验**，设计和实施**可扩展**、**高性能的系统**，推动**组织成功**。\n"
+      },
+      "metadata": {
+         "birthdate": "1987-09-21",
+         "marriage": true,
+         "needVisa": true,
+         "location": {
+            "en": "Prefering Remote Jobs",
+            "fa": "استخدام از راه دور",
+            "tr": "Uzaktan İşler Tercih Ediliyor",
+            "de": "Bevorzugung von Remote-Jobs",
+            "ar": "تفضيل الوظائف عن بُعد",
+            "zh": "远程工作"
+         }
+      }
+   },
+   "skillSets": [
+      {
+         "name": {
+            "en": "As an Architect",
+            "fa": "به عنوان یک معمار",
+            "tr": "Bir Mimar Olarak",
+            "de": "Als Architekt",
+            "ar": "كمهندس معماري",
+            "zh": "作为架构师"
+         },
+         "skills": [
+            {
+               "name": {
+                  "en": "Enterprise application integration (EAI)",
+                  "fa": "یکپارچه‌سازی برنامه‌های سازمانی (EAI)",
+                  "tr": "Kurumsal uygulama entegrasyonu (EAI)",
+                  "de": "Integration von Unternehmensanwendungen (EAI)",
+                  "ar": "تكامل تطبيقات المؤسسة (EAI)",
+                  "zh": "企业应用程序集成 (EAI)"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Extensive experience in integrating enterprise applications.",
+                  "fa": "تجربه گسترده در یکپارچه‌سازی برنامه‌های سازمانی.",
+                  "tr": "Kurumsal uygulamaların entegrasyonunda geniş deneyim.",
+                  "de": "Umfangreiche Erfahrung in der Integration von Unternehmensanwendungen.",
+                  "ar": "خبرة واسعة في تكامل تطبيقات المؤسسة.",
+                  "zh": "在集成企业应用程序方面拥有丰富的经验。"
+               }
+            },
+            {
+               "name": {
+                  "en": "System design and modeling (UML, C4, BPMN)",
+                  "fa": "طراحی و مدل‌سازی سیستم (UML، C4، BPMN)",
+                  "tr": "Sistem tasarımı ve modelleme (UML, C4, BPMN)",
+                  "de": "Systemdesign und -modellierung (UML, C4, BPMN)",
+                  "ar": "تصميم النظام والنمذجة (UML، C4، BPMN)",
+                  "zh": "系统设计和建模 (UML, C4, BPMN)"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Proficient in designing and modeling systems using UML, C4, and BPMN.",
+                  "fa": "مهارت در طراحی و مدل‌سازی سیستم‌ها با استفاده از UML، C4 و BPMN.",
+                  "tr": "UML, C4 ve BPMN kullanarak sistemlerin tasarımı ve modellemesinde uzman.",
+                  "de": "Erfahrung im Design und der Modellierung von Systemen mit UML, C4 und BPMN.",
+                  "ar": "مهارة في تصميم ونمذجة الأنظمة باستخدام UML وC4 وBPMN.",
+                  "zh": "熟练掌握使用 UML、C4 和 BPMN 进行系统设计和建模。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Containerized applications design",
+                  "fa": "طراحی برنامه‌های کانتینری",
+                  "tr": "Konteynerleştirilmiş uygulama tasarımı",
+                  "de": "Design containerisierter Anwendungen",
+                  "ar": "تصميم التطبيقات المحاكية",
+                  "zh": "设计容器化应用程序的专业知识。"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Proficient in designing containerized applications.",
+                  "fa": "مهارت در طراحی برنامه‌های کانتینری.",
+                  "tr": "Konteynerleştirilmiş uygulamaların tasarımında yetkin.",
+                  "de": "Kompetenz im Design containerisierter Anwendungen.",
+                  "ar": "مهارة في تصميم التطبيقات المحاكية.",
+                  "zh": "精通设计容器化应用程序。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Deep understanding of database architecture (SQL and NoSQL)",
+                  "fa": "درک عمیق از معماری پایگاه داده (SQL و NoSQL)",
+                  "tr": "Veritabanı mimarisi (SQL ve NoSQL) hakkında derin anlayış",
+                  "de": "Tiefes Verständnis der Datenbankarchitektur (SQL und NoSQL)",
+                  "ar": "فهم عميق لهندسة قواعد البيانات (SQL و NoSQL)",
+                  "zh": "深入了解 SQL 和 NoSQL 数据库架构"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Strong knowledge of SQL and NoSQL database architectures.",
+                  "fa": "دانش قوی از معماری پایگاه داده SQL و NoSQL.",
+                  "tr": "SQL ve NoSQL veritabanı mimarileri hakkında güçlü bilgi.",
+                  "de": "Fundierte Kenntnisse der SQL- und NoSQL-Datenbankarchitekturen.",
+                  "ar": "معرفة قوية بهندسة قواعد البيانات SQL و NoSQL.",
+                  "zh": "掌握 SQL 和 NoSQL 数据库架构的深厚知识。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Experience with API design (REST, GraphQL)",
+                  "fa": "تجربه در طراحی API (REST، GraphQL)",
+                  "tr": "API tasarımı (REST, GraphQL) deneyimi",
+                  "de": "Erfahrung im API-Design (REST, GraphQL)",
+                  "ar": "خبرة في تصميم واجهات برمجة التطبيقات باستخدام REST و GraphQL",
+                  "zh": "拥有 REST 和 GraphQL API 设计的经验"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Proficient in designing APIs using REST and GraphQL.",
+                  "fa": "مهارت در طراحی API با استفاده از REST و GraphQL.",
+                  "tr": "REST ve GraphQL kullanarak API tasarımında yetkin.",
+                  "de": "Kompetenz im Design von APIs mit REST und GraphQL.",
+                  "ar": "مهارة في تصميم واجهات برمجة التطبيقات باستخدام REST و GraphQL.",
+                  "zh": "精通使用 REST 和 GraphQL 进行 API 设计。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Documentation skills for architecture and technical decisions",
+                  "fa": "مهارت‌های مستندسازی برای تصمیمات معماری و فنی",
+                  "tr": "Mimari ve teknik kararlar için dokümantasyon becerileri",
+                  "de": "Dokumentationsfähigkeiten für Architektur- und technische Entscheidungen",
+                  "ar": "مهارات توثيق للقرارات المعمارية والفنية",
+                  "zh": "架构和技术决策的文档编写能力"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Strong documentation skills for architectural and technical decisions.",
+                  "fa": "مهارت‌های قوی در مستندسازی برای تصمیمات معماری و فنی.",
+                  "tr": "Mimari ve teknik kararlar için güçlü dokümantasyon becerileri.",
+                  "de": "Starke Dokumentationsfähigkeiten für architektonische und technische Entscheidungen.",
+                  "ar": "مهارات قوية في توثيق القرارات المعمارية والفنية.",
+                  "zh": "具备出色的架构和技术决策文档编写能力。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Design patterns (e.g., Microservices, CQRS, Event-driven)",
+                  "fa": "الگوهای طراحی (مانند Microservices، CQRS، Event-driven)",
+                  "tr": "Tasarım desenleri (ör. Mikroservisler, CQRS, Olay odaklı)",
+                  "de": "Entwurfsmuster (z.B. Microservices, CQRS, Event-driven)",
+                  "ar": "أنماط التصميم (مثل Microservices، CQRS، Event-driven)",
+                  "zh": "熟悉各种设计模式，包括微服务、CQRS 和事件驱动架构。"
+               },
+               "level": 3,
+               "description": {
+                  "en": "Comprehensive knowledge of design patterns, including Microservices, CQRS, and Event-driven architecture.",
+                  "fa": "دانش جامع الگوهای طراحی از جمله Microservices، CQRS و معماری Event-driven.",
+                  "tr": "Mikroservisler, CQRS ve Olay odaklı mimari dahil çeşitli tasarım desenleri bilgisi.",
+                  "de": "Umfassende Kenntnisse über Entwurfsmuster wie Microservices, CQRS und Event-Driven-Architektur.",
+                  "ar": "معرفة شاملة بأنماط التصميم المختلفة مثل Microservices وCQRS وهندسة Event-driven.",
+                  "zh": "深入了解微服务、CQRS 和事件驱动架构等设计模式。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Security standards (OAuth, SAML, data encryption)",
+                  "fa": "استانداردهای امنیتی (OAuth، SAML، رمزگذاری داده‌ها)",
+                  "tr": "Güvenlik standartları (OAuth, SAML, veri şifreleme)",
+                  "de": "Sicherheitsstandards (OAuth, SAML, Datenverschlüsselung)",
+                  "ar": "معايير الأمان (OAuth، SAML، تشفير البيانات)",
+                  "zh": "安全标准 (OAuth, SAML, 数据加密)"
+               },
+               "level": 3,
+               "description": {
+                  "en": "Understanding and implementation of security standards such as OAuth, SAML, and data encryption.",
+                  "fa": "درک و پیاده‌سازی استانداردهای امنیتی مانند OAuth، SAML و رمزگذاری داده‌ها.",
+                  "tr": "OAuth, SAML ve veri şifreleme gibi güvenlik standartlarının anlaşılması ve uygulanması.",
+                  "de": "Verständnis und Implementierung von Sicherheitsstandards wie OAuth, SAML und Datenverschlüsselung.",
+                  "ar": "فهم وتنفيذ معايير الأمان مثل OAuth و SAML وتشفير البيانات.",
+                  "zh": "了解和实施 OAuth、SAML 和数据加密等安全标准。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Communication and stakeholder collaboration skills",
+                  "fa": "مهارت‌های ارتباطی و همکاری با ذینفعان",
+                  "tr": "İletişim ve paydaş işbirliği becerileri",
+                  "de": "Kommunikations- und Stakeholder-Kooperationsfähigkeiten",
+                  "ar": "مهارات التواصل والتعاون مع أصحاب المصلحة",
+                  "zh": "与利益相关者的沟通与协作技能"
+               },
+               "level": 3,
+               "description": {
+                  "en": "Effective communication and collaboration with stakeholders.",
+                  "fa": "ارتباط و همکاری موثر با ذینفعان.",
+                  "tr": "Paydaşlarla etkili iletişim ve işbirliği.",
+                  "de": "Effektive Kommunikation und Zusammenarbeit mit Stakeholdern.",
+                  "ar": "التواصل الفعال والتعاون مع أصحاب المصلحة.",
+                  "zh": "有效的与利益相关者进行沟通与协作。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Cloud architecture expertise (AWS, Azure)",
+                  "fa": "تخصص در معماری ابری (AWS، Azure)",
+                  "tr": "Bulut mimarisi uzmanlığı (AWS, Azure)",
+                  "de": "Cloud-Architektur-Expertise (AWS, Azure)",
+                  "ar": "خبرة في هندسة السحابة (AWS، Azure)",
+                  "zh": "拥有 AWS 和 Azure 平台上的云架构专业知识。"
+               },
+               "level": 2,
+               "description": {
+                  "en": "Experience with cloud architecture on AWS and Azure platforms.",
+                  "fa": "تجربه در معماری ابری در پلتفرم‌های AWS و Azure.",
+                  "tr": "AWS ve Azure platformlarında bulut mimarisi deneyimi.",
+                  "de": "Erfahrung mit Cloud-Architektur auf AWS- und Azure-Plattformen.",
+                  "ar": "خبرة في هندسة السحابة على منصات AWS وAzure.",
+                  "zh": "在 AWS 和 Azure 平台上的云架构经验。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Knowledge of scalability and performance optimization",
+                  "fa": "دانش بهینه‌سازی مقیاس‌پذیری و عملکرد",
+                  "tr": "Ölçeklenebilirlik ve performans optimizasyonu bilgisi",
+                  "de": "Kenntnisse in Skalierbarkeit und Leistungsoptimierung",
+                  "ar": "معرفة تحسين الأداء وقابلية التوسع",
+                  "zh": "了解可扩展性和性能优化技术"
+               },
+               "level": 2,
+               "description": {
+                  "en": "Understanding of techniques for scalability and performance optimization.",
+                  "fa": "درک تکنیک‌های بهینه‌سازی مقیاس‌پذیری و عملکرد.",
+                  "tr": "Ölçeklenebilirlik ve performans optimizasyonu için tekniklerin anlaşılması.",
+                  "de": "Verständnis von Techniken zur Skalierbarkeit und Leistungsoptimierung.",
+                  "ar": "فهم تقنيات تحسين الأداء وقابلية التوسع.",
+                  "zh": "了解用于可扩展性和性能优化的技术。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Basic knowledge in DevOps principles and CI/CD pipelines",
+                  "fa": "دانش پایه در اصول DevOps و اتوماسیون CI/CD",
+                  "tr": "DevOps ilkeleri ve CI/CD boru hatları hakkında temel bilgi",
+                  "de": "Grundkenntnisse in DevOps-Prinzipien und CI/CD-Pipelines",
+                  "ar": "معرفة أساسية بمبادئ DevOps وخطوط أنابيب CI/CD",
+                  "zh": "掌握 DevOps 原则和 CI/CD 管道的基本知识"
+               },
+               "level": 2,
+               "description": {
+                  "en": "Familiarity with DevOps principles and CI/CD pipelines.",
+                  "fa": "آشنایی با اصول DevOps و اتوماسیون CI/CD.",
+                  "tr": "DevOps ilkeleri ve CI/CD boru hatları ile aşinalık.",
+                  "de": "Vertrautheit mit DevOps-Prinzipien und CI/CD-Pipelines.",
+                  "ar": "الإلمام بمبادئ DevOps وخطوط أنابيب CI/CD.",
+                  "zh": "熟悉 DevOps 原则和 CI/CD 管道。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Domain-driven design (DDD) and Test-driven development (TDD)",
+                  "fa": "طراحی مبتنی بر دامنه (DDD) و توسعه مبتنی بر تست (TDD)",
+                  "tr": "Alan odaklı tasarım (DDD) ve Test odaklı geliştirme (TDD)",
+                  "de": "Domain-Driven Design (DDD) und Test-Driven Development (TDD)",
+                  "ar": "التصميم الموجه بالمجال (DDD) والتطوير الموجه بالاختبار (TDD)",
+                  "zh": "领域驱动设计 (DDD) 和测试驱动开发 (TDD)"
+               },
+               "level": 2,
+               "description": {
+                  "en": "Knowledge of DDD and TDD methodologies.",
+                  "fa": "دانش روش‌شناسی‌های DDD و TDD.",
+                  "tr": "DDD ve TDD metodolojileri bilgisi.",
+                  "de": "Kenntnisse der DDD- und TDD-Methodologien.",
+                  "ar": "معرفة بمنهجيات DDD و TDD.",
+                  "zh": "了解 DDD 和 TDD 方法论。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Emerging technology exploration (AI, blockchain, IoT)",
+                  "fa": "کاوش در فناوری‌های نوظهور (AI، بلاکچین، IoT)",
+                  "tr": "Yeni ortaya çıkan teknoloji keşfi (AI, blockchain, IoT)",
+                  "de": "Erkundung neuer Technologien (KI, Blockchain, IoT)",
+                  "ar": "استكشاف التقنيات الناشئة (AI، blockchain، IoT)",
+                  "zh": "探索新兴技术 (AI、区块链、物联网)"
+               },
+               "level": 1,
+               "description": {
+                  "en": "Interest in exploring emerging technologies such as AI, blockchain, and IoT.",
+                  "fa": "علاقه به کاوش در فناوری‌های نوظهور مانند AI، بلاکچین و IoT.",
+                  "tr": "AI, blockchain ve IoT gibi yeni ortaya çıkan teknolojileri keşfetmeye ilgi.",
+                  "de": "Interesse an der Erforschung neuer Technologien wie KI, Blockchain und IoT.",
+                  "ar": "الاهتمام باستكشاف التقنيات الناشئة مثل AI و blockchain و IoT.",
+                  "zh": "对探索 AI、区块链和物联网等新兴技术的兴趣。"
+               }
+            }
+         ]
+      },
+      {
+         "name": {
+            "en": "As a Developer",
+            "fa": "به عنوان یک توسعه‌دهنده",
+            "tr": "Bir Geliştirici Olarak",
+            "de": "Als Entwickler",
+            "ar": "كمطور",
+            "zh": "作为开发人员"
+         },
+         "skills": [
+            {
+               "name": {
+                  "en": ".NET, Node.js and Bun frameworks for backend development",
+                  "fa": ".NET، Node.js و Bun برای توسعه بک‌اند",
+                  "tr": "Backend geliştirme için .NET, Node.js ve Bun framework'leri",
+                  "de": ".NET, Node.js und Bun-Frameworks für die Backend-Entwicklung",
+                  "ar": ".NET وNode.js وBun لإطار عمل تطوير الخلفية",
+                  "zh": ".NET、Node.js 和 Bun 框架用于后端开发"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Proficiency in .NET, Node.js and Bun frameworks for backend development.",
+                  "fa": "مهارت در .NET، Node.js و Bun برای توسعه بک‌اند.",
+                  "tr": "Backend geliştirme için .NET, Node.js ve Bun framework'lerinde yetkinlik.",
+                  "de": "Kompetenz in .NET, Node.js und Bun-Frameworks für die Backend-Entwicklung.",
+                  "ar": "إتقان أطر عمل .NET وNode.js وBun لتطوير الخلفية.",
+                  "zh": "精通 .NET、Node.js 和 Bun 框架进行后端开发。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Angular and React for frontend development",
+                  "fa": "Angular و React برای توسعه فرانت‌اند",
+                  "tr": "Frontend geliştirme için Angular ve React",
+                  "de": "Angular und React für die Frontend-Entwicklung",
+                  "ar": "Angular وReact لتطوير الواجهة الأمامية",
+                  "zh": "Angular 和 React 用于前端开发"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Expertise in Angular and React for frontend development.",
+                  "fa": "تخصص در Angular و React برای توسعه فرانت‌اند.",
+                  "tr": "Frontend geliştirme için Angular ve React'te uzmanlık.",
+                  "de": "Expertise in Angular und React für die Frontend-Entwicklung.",
+                  "ar": "خبرة في Angular وReact لتطوير الواجهة الأمامية.",
+                  "zh": "在前端开发中精通 Angular 和 React。"
+               }
+            },
+            {
+               "name": {
+                  "en": "RESTful API design and implementation",
+                  "fa": "طراحی و پیاده‌سازی API‌های RESTful",
+                  "tr": "RESTful API tasarımı ve uygulaması",
+                  "de": "Design und Implementierung von RESTful APIs",
+                  "ar": "تصميم وتنفيذ واجهات برمجة التطبيقات RESTful",
+                  "zh": "RESTful API 设计和实现"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Experience with RESTful API design and implementation.",
+                  "fa": "تجربه در طراحی و پیاده‌سازی API‌های RESTful.",
+                  "tr": "RESTful API tasarımı ve uygulaması deneyimi.",
+                  "de": "Erfahrung im Design und der Implementierung von RESTful APIs.",
+                  "ar": "خبرة في تصميم وتنفيذ واجهات برمجة التطبيقات RESTful.",
+                  "zh": "具有 RESTful API 设计和实现经验。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Database management systems (SQL and NoSQL)",
+                  "fa": "سیستم‌های مدیریت پایگاه داده (SQL و NoSQL)",
+                  "tr": "Veritabanı yönetim sistemleri (SQL ve NoSQL)",
+                  "de": "Datenbankverwaltungssysteme (SQL und NoSQL)",
+                  "ar": "أنظمة إدارة قواعد البيانات (SQL وNoSQL)",
+                  "zh": "数据库管理系统 (SQL 和 NoSQL)"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Knowledge of database management systems (SQL and NoSQL).",
+                  "fa": "دانش سیستم‌های مدیریت پایگاه داده (SQL و NoSQL).",
+                  "tr": "Veritabanı yönetim sistemleri (SQL ve NoSQL) bilgisi.",
+                  "de": "Kenntnisse in Datenbankverwaltungssystemen (SQL und NoSQL).",
+                  "ar": "معرفة بأنظمة إدارة قواعد البيانات (SQL وNoSQL).",
+                  "zh": "了解数据库管理系统 (SQL 和 NoSQL)。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Clean, maintainable, and testable code",
+                  "fa": "کد تمیز، قابل نگهداری و تست",
+                  "tr": "Temiz, sürdürülebilir ve test edilebilir kod",
+                  "de": "Sauberer, wartbarer und testbarer Code",
+                  "ar": "كود نظيف وقابل للصيانة والاختبار",
+                  "zh": "干净、可维护和可测试的代码"
+               },
+               "level": 5,
+               "description": {
+                  "en": "Ability to write clean, maintainable, and testable code.",
+                  "fa": "توانایی نوشتن کد تمیز، قابل نگهداری و تست.",
+                  "tr": "Temiz, sürdürülebilir ve test edilebilir kod yazma yeteneği.",
+                  "de": "Fähigkeit, sauberen, wartbaren und testbaren Code zu schreiben.",
+                  "ar": "القدرة على كتابة كود نظيف وقابل للصيانة والاختبار.",
+                  "zh": "能够编写干净、可维护和可测试的代码。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Version control systems like Git",
+                  "fa": "سیستم‌های کنترل نسخه مانند Git",
+                  "tr": "Git gibi sürüm kontrol sistemleri",
+                  "de": "Versionskontrollsysteme wie Git",
+                  "ar": "أنظمة التحكم في الإصدارات مثل Git",
+                  "zh": "版本控制系统如 Git"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Familiarity with version control systems like Git.",
+                  "fa": "آشنایی با سیستم‌های کنترل نسخه مانند Git.",
+                  "tr": "Git gibi sürüm kontrol sistemleri ile aşinalık.",
+                  "de": "Vertrautheit mit Versionskontrollsystemen wie Git.",
+                  "ar": "الإلمام بأنظمة التحكم في الإصدارات مثل Git.",
+                  "zh": "熟悉 Git 等版本控制系统。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Problem-solving and debugging skills",
+                  "fa": "مهارت‌های حل مسئله و اشکال‌زدایی",
+                  "tr": "Problem çözme ve hata ayıklama becerileri",
+                  "de": "Problemlösungs- und Debugging-Fähigkeiten",
+                  "ar": "مهارات حل المشكلات وتصحيح الأخطاء",
+                  "zh": "解决问题和调试技能"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Strong problem-solving and debugging skills.",
+                  "fa": "مهارت‌های قوی ��ر حل مسئله و اشکال‌زدایی.",
+                  "tr": "Güçlü problem çözme ve hata ayıklama becerileri.",
+                  "de": "Starke Problemlösungs- und Debugging-Fähigkeiten.",
+                  "ar": "مهارات قوية في حل المشكلات وتصحيح الأخطاء.",
+                  "zh": "强大的问题解决和调试技能。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Collaboration with cross-functional teams",
+                  "fa": "همکاری با تیم‌های چندوظیفه‌ای",
+                  "tr": "Çapraz fonksiyonel takımlarla işbirliği",
+                  "de": "Zusammenarbeit mit funktionsübergreifenden Teams",
+                  "ar": "التعاون مع الفرق متعددة الوظائف",
+                  "zh": "与跨职能团队合作"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Ability to collaborate effectively with cross-functional teams.",
+                  "fa": "توانایی همکاری موثر با تیم‌های چندوظیفه‌ای.",
+                  "tr": "Çapraz fonksiyonel takımlarla etkili işbirliği yapma yeteneği.",
+                  "de": "Fähigkeit zur effektiven Zusammenarbeit mit funktionsübergreifenden Teams.",
+                  "ar": "القدرة على التعاون الفعال مع الفرق متعددة الوظائف.",
+                  "zh": "能够与跨职能团队有效合作。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Design & implement Microfrontends (Webpack, Vite)",
+                  "fa": "طراحی و پیاده‌سازی Microfrontends (Webpack، Vite)",
+                  "tr": "Microfrontends (Webpack, Vite) tasarımı ve uygulaması",
+                  "de": "Design und Implementierung von Microfrontends (Webpack, Vite)",
+                  "ar": "تصميم وتنفيذ Microfrontends (Webpack وVite)",
+                  "zh": "设计和实现 Microfrontends (Webpack, Vite)"
+               },
+               "level": 4,
+               "description": {
+                  "en": "Ability to design & implement Microfrontends (Webpack, Vite).",
+                  "fa": "توانایی طراحی و پیاده‌سازی Microfrontends (Webpack، Vite).",
+                  "tr": "Microfrontends (Webpack, Vite) tasarımı ve uygulaması yeteneği.",
+                  "de": "Fähigkeit, Microfrontends (Webpack, Vite) zu entwerfen und zu implementieren.",
+                  "ar": "القدرة على تصميم وتنفيذ Microfrontends (Webpack وVite).",
+                  "zh": "能够设计和实现 Microfrontends (Webpack, Vite)。"
+               }
+            },
+            {
+               "name": {
+                  "en": "Software development methodologies (Agile, Scrum)",
+                  "fa": "روش‌شناسی‌های توسعه نرم‌افزار (Agile، Scrum)",
+                  "tr": "Yazılım geliştirme metodolojileri (Agile, Scrum)",
+                  "de": "Software-Entwicklungsmethodologien (Agile, Scrum)",
+                  "ar": "منهجيات تطوير البرمجيات (Agile وScrum)",
+                  "zh": "软件开发方法论 (Agile, Scrum)"
+               },
+               "level": 3,
+               "description": {
+                  "en": "Understanding of software development methodologies (Agile, Scrum).",
+                  "fa": "درک روش‌شناسی‌های توسعه نرم‌افزار (Agile، Scrum).",
+                  "tr": "Yazılım geliştirme metodolojileri (Agile, Scrum) hakkında anlayış.",
+                  "de": "Verständnis von Software-Entwicklungsmethodologien (Agile, Scrum).",
+                  "ar": "فهم منهجيات تطوير البرمجيات (Agile وScrum).",
+                  "zh": "了解软件开发方法论 (Agile, Scrum)。"
+               }
+            },
+
+            {
+               "name": {
+                  "en": "Continuous integration and deployment (CI/CD) pipelines",
+                  "fa": "اتوماسیون CI/CD",
+                  "tr": "Sürekli entegrasyon ve dağıtım (CI/CD) boru hatları",
+                  "de": "Pipelines für kontinuierliche Integration und Bereitstellung (CI/CD)",
+                  "ar": "خطوط أنابيب التكامل والنشر المستمر (CI/CD)",
+                  "zh": "持续集成和部署 (CI/CD) 管道"
+               },
+               "level": 2,
+               "description": {
+                  "en": "Experience with continuous integration and deployment (CI/CD) pipelines.",
+                  "fa": "تجربه در اتوماسیون CI/CD.",
+                  "tr": "Sürekli entegrasyon ve dağıtım (CI/CD) boru hatları deneyimi.",
+                  "de": "Erfahrung mit Pipelines für kontinuierliche Integration und Bereitstellung (CI/CD).",
+                  "ar": "خبرة في خطوط أنابيب التكامل والنشر المستمر (CI/CD).",
+                  "zh": "具有持续集成和部署 (CI/CD) 管道的经验。"
+               }
+            }
+         ]
+      }
+   ],
+   "simpleSkillSets": [
+      {
+         "name": {
+            "en": "Languages & Frameworks",
+            "fa": "زبان‌ها و فریم‌ورک‌ها",
+            "tr": "Diller ve Çerçeveler",
+            "de": "Sprachen und Frameworks",
+            "ar": "اللغات والأطر",
+            "zh": "编程语言与框架"
+         },
+         "skills": [
+            { "name": "C# & VB .NET", "level": 5 },
+            { "name": "TypeScript & JavaScript", "level": 5 },
+            { "name": "Node.js & Bun", "level": 4 },
+            { "name": "AngularTS, React", "level": 5 },
+            { "name": "HTML5 & CSS & WPF", "level": 5 },
+
+            { "name": "Blazor (WASM, Server)", "level": 2 },
+            { "name": "Lit Elements", "level": 3 },
+            { "name": "Familiar with Go and Python", "level": 2 }
+         ]
+      },
+      {
+         "name": {
+            "en": "DevOps & Cloud",
+            "fa": "دواپس و رایانش ابری",
+            "tr": "DevOps ve Bulut",
+            "de": "DevOps und Cloud",
+            "ar": "ديف أوبس والحوسبة السحابية",
+            "zh": "DevOps 与云计算"
+         },
+         "skills": [
+            { "name": "Kubernetes + Docker", "level": 3 },
+            { "name": "RabbitMQ", "level": 4 },
+            { "name": "Nginx", "level": 3 }
+         ]
+      },
+      {
+         "name": {
+            "en": "Tools & Technologies",
+            "fa": "ابزارها و فناوری‌ها",
+            "tr": "Araçlar ve Teknolojiler",
+            "de": "Tools und Technologien",
+            "ar": "الأدوات والتقنيات",
+            "zh": "工具与技术"
+         },
+         "skills": [
+            { "name": "SQL-Server & MongoDB", "level": 4 },
+            { "name": "gRPC", "level": 4 },
+            { "name": "Git", "level": 4 },
+            { "name": "BPMN", "level": 3 }
+         ]
+      }
+   ]
+}

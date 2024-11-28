@@ -1,0 +1,38 @@
+{
+   "pageTitle": "H. Zakeri Miyab | Lebenslauf",
+   "summary": "Zusammenfassung",
+   "married": "Verheiratet",
+   "single": "Ledig",
+   "needVisa": "Benötigt Visum und Unterstützung",
+   "haveVisa": "Bereits im Besitz eines EU-Arbeitsvisums",
+   "languageSkills": "Sprachkenntnisse",
+   "languages": {
+      "en-US": "Englisch",
+      "en-US_desc": "English",
+      "fa-IR": "Persisch",
+      "fa-IR_desc": "فارسی",
+      "az-AZ": "Aserbaidschanisch",
+      "az-AZ_desc": "Azərbaycanca",
+      "tr-TR": "Türkisch",
+      "tr-TR_desc": "Türkçe",
+      "zh-CN": "Chinesisch",
+      "zh-CN_desc": "中文"
+   },
+   "socialMedia": "Soziale Medien",
+   "educations": "Ausbildungen",
+   "levels": {
+      "0": "Unbekannt",
+      "1": "Anfänger",
+      "2": "Grundkenntnisse",
+      "3": "Kompetent",
+      "4": "Fortgeschritten",
+      "5": "Experte"
+   },
+   "experiences": "Erfahrungen",
+   "projects": "Projekte",
+   "role": "Rolle",
+   "challenges": "Technische Herausforderungen",
+   "skills": "Fähigkeiten",
+   "print_slogan": "Vertrau mir! Diese Seite ist druckfreundlich (A4), klicke und erlebe die Magie!",
+   "print": "Drucken"
+}

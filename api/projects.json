@@ -1,0 +1,257 @@
+[
+   {
+      "name": "Benjamin Bellucci Academy App",
+      "description": {
+         "en": "A mobile application for parents and coaches of a basketball training program.",
+         "fa": "یک برنامه موبایل برای والدین و مربیان یک برنامه تمرینی بسکتبال.",
+         "tr": "Basketbol antrenman programı için ebeveynler ve koçlar için bir mobil uygulama.",
+         "ar": "تطبيق جوال للآباء والمدربين في برنامج تدريب كرة السلة.",
+         "de": "Eine mobile Anwendung für Eltern und Trainer eines Basketball-Trainingsprogramms.",
+         "zh": "为篮球训练计划的家长和教练提供的移动应用程序。"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* Solution Architect\n* Back-End developer",
+         "fa": "* تحلیلگر کسب و کار\n* معمار راه حل\n* توسعه دهنده بک اند",
+         "tr": "* İş Analisti\n* Çözüm Mimarı\n* Back-End geliştirici",
+         "ar": "* محلل الأعمال\n* مهندس الحلول\n* مطور الواجهة الخلفية",
+         "de": "* Business Analyst\n* Lösungsarchitekt\n* Back-End Entwickler",
+         "zh": "* 业务分析师\n* 解决方案架构师\n* 后端开发人员"
+      },
+      "technicalChallenges": {
+         "en": "* Handle multiple payment types\n* Sync curriculum and schedule\n* Manage user roles and permissions\n* Implement a chat system\n* Push notifications for parents",
+         "fa": "* مدیریت انواع مختلف پرداخت\n* همگام سازی برنامه درسی و زمانبندی\n* مدیریت نقش ها و مجوزهای کاربران\n* پیاده سازی سیستم چت\n* اعلان های فشاری برای والدین",
+         "tr": "* Birden fazla ödeme türünü yönetme\n* Müfredat ve programı senkronize etme\n* Kullanıcı rolleri ve izinlerini yönetme\n* Sohbet sistemi uygulama\n* Ebeveynler için bildirim gönderme",
+         "ar": "* التعامل مع أنواع الدفع المتعددة\n* مزامنة المناهج والجدول الزمني\n* إدارة أدوار المستخدمين والأذونات\n* تنفيذ نظام الدردشة\n* إشعارات الدفع للآباء",
+         "de": "* Umgang mit mehreren Zahlungsarten\n* Synchronisierung des Lehrplans und des Zeitplans\n* Verwaltung von Benutzerrollen und Berechtigungen\n* Implementierung eines Chatsystems\n* Push-Benachrichtigungen für Eltern",
+         "zh": "* 处理多种支付方式\n* 同步课程和时间表\n* 管理用户角色和权限\n* 实现聊天系统\n* 为家长推送通知"
+      },
+      "technologies": ["flutter", "net", "sql", "angularts"]
+   },
+   {
+      "name": "Tawoox",
+      "description": {
+         "en": "A food reservation website and app using REACT and REACT-native. [Tawoox.com](http://tawoox.tk)",
+         "fa": "یک وب سایت و برنامه رزرو غذا با استفاده از REACT و REACT-native. [Tawoox.com](http://tawoox.tk)",
+         "tr": "REACT ve REACT-native kullanarak bir yemek rezervasyon sitesi ve uygulaması. [Tawoox.com](http://tawoox.tk)",
+         "ar": "موقع ويب وتطبيق لحجز الطعام باستخدام REACT و REACT-native. [Tawoox.com](http://tawoox.tk)",
+         "de": "Eine Website und App zur Lebensmittelreservierung mit REACT und REACT-native. [Tawoox.com](http://tawoox.tk)",
+         "zh": "使用REACT和REACT-native的食品预订网站和应用程序。 [Tawoox.com](http://tawoox.tk)"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* Solution Architect\n* Back-End developer",
+         "fa": "* تحلیلگر کسب و کار\n* معمار راه حل\n* توسعه دهنده بک اند",
+         "tr": "* İş Analisti\n* Çözüm Mimarı\n* Back-End geliştirici",
+         "ar": "* محلل الأعمال\n* مهندس الحلول\n* مطور الواجهة الخلفية",
+         "de": "* Business Analyst\n* Lösungsarchitekt\n* Back-End Entwickler",
+         "zh": "* 业务分析师\n* 解决方案架��师\n* 后端开发人员"
+      },
+      "technicalChallenges": {
+         "en": "* Handle multiple payment types\n* Track the delivery process\n* Manage user roles and permissions",
+         "fa": "* مدیریت انواع مختلف پرداخت\n* پیگیری فرآیند تحویل\n* مدیریت نقش ها و مجوزهای کاربران",
+         "tr": "* Birden fazla ödeme türünü yönetme\n* Teslimat sürecini izleme\n* Kullanıcı rolleri ve izinlerini yönetme",
+         "ar": "* التعامل مع أنواع الدفع المتعددة\n* تتبع عملية التسليم\n* إدارة أدوار المستخدمين والأذونات",
+         "de": "* Umgang mit mehreren Zahlungsarten\n* Verfolgung des Lieferprozesses\n* Verwaltung von Benutzerrollen und Berechtigungen",
+         "zh": "* 处理多种支付方式\n* 跟踪交付过程\n* 管理用户角色和权限"
+      },
+      "technologies": ["reactjs", "reactNative"]
+   },
+   {
+      "name": "SnapTutor",
+      "description": {
+         "en": "A mobile application and website for reserving tutors in the Netherlands. [SnapTutor.nl](https://snaptutor.nl)",
+         "fa": "یک برنامه موبایل و وب سایت برای رزرو معلمان در هلند. [SnapTutor.nl](https://snaptutor.nl)",
+         "tr": "Hollanda'da öğretmen rezervasyonu için bir mobil uygulama ve web sitesi. [SnapTutor.nl](https://snaptutor.nl)",
+         "ar": "تطبيق جوال وموقع ويب لحجز المعلمين في هولندا. [SnapTutor.nl](https://snaptutor.nl)",
+         "de": "Eine mobile Anwendung und Website zur Reservierung von Tutoren in den Niederlanden. [SnapTutor.nl](https://snaptutor.nl)",
+         "zh": "在荷兰预订导师的移动应用程序和网站。 [SnapTutor.nl](https://snaptutor.nl)"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* Solution Architect\n* Back-End developer\n* Front-End developer",
+         "fa": "* تحلیلگر کسب و کار\n* معمار راه حل\n* توسعه دهنده بک اند\n* توسعه دهنده فرانت اند",
+         "tr": "* İş Analisti\n* Çözüm Mimarı\n* Back-End geliştirici\n* Front-End geliştirici",
+         "ar": "* محلل الأعمال\n* مهندس الحلول\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية",
+         "de": "* Business Analyst\n* Lösungsarchitekt\n* Back-End Entwickler\n* Front-End Entwickler",
+         "zh": "* 业务分析师\n* 解决方案架构师\n* 后端开发人员\n* 前端开发人员"
+      },
+      "technicalChallenges": {
+         "en": "* Checking reservation overlaps\n* Implementing a protected chat system to prevent sharing sensitive or contact information\n* Partial refound for canceled reservations",
+         "fa": "* بررسی تداخل رزروها\n* پیاده سازی سیستم چت محافظت شده برای جلوگیری از اشتراک گذاری اطلاعات حساس یا تماس\n* بازپرداخت جزئی برای رزروهای لغو شده",
+         "tr": "* Rezervasyon çakışmalarını kontrol etme\n* Hassas veya iletişim bilgilerini paylaşmayı önlemek için korumalı bir sohbet sistemi uygulama\n* İptal edilen rezervasyonlar için kısmi geri ödeme",
+         "ar": "* التحقق من تداخل الحجوزات\n* تنفيذ نظام دردشة محمي لمنع مشاركة المعلومات الحساسة أو الاتصال\n* استرداد جزئي للحجوزات الملغاة",
+         "de": "* Überprüfung von Reservierungsüberschneidungen\n* Implementierung eines geschützten Chatsystems zur Vermeidung der Weitergabe sensibler oder Kontaktinformationen\n* Teilweise Rückerstattung für stornierte Reservierungen",
+         "zh": "* 检查预订重叠\n* 实施受保护的聊天系统以防止共享敏感或联系信息\n* 取消预订的部分退款"
+      },
+      "technologies": ["angularts", "ionic", "net5", "sql"]
+   },
+   {
+      "name": "UnFold",
+      "description": {
+         "en": "A <u>folder-less</u> and <u>tag-based</u> file system.",
+         "fa": "یک فایل سیستم <u>بدون پوشه</u> و <u>بر اساس برچسب</u>.",
+         "tr": "Bir <u>klasörsüz</u> ve <u>etiket tabanlı</u> dosya sistemi.",
+         "ar": "نظام ملفات <u>بدون مجلد</u> و<u>قائم على العلامات</u>.",
+         "de": "Ein <u>ordnerloses</u> und <u>tag-basiertes</u> Dateisystem.",
+         "zh": "一个<u>无文件夹</u>和<u>基于标签</u>的文件系统。"
+      },
+      "role": {
+         "en": "* System Developer",
+         "fa": "* توسعه دهنده سیستم",
+         "tr": "* Sistem Geliştirici",
+         "ar": "* مطور النظام",
+         "de": "* Systementwickler",
+         "zh": "* 系统开发人员"
+      },
+      "technicalChallenges": {
+         "en": "* Making Windows XP to show an specific UI when opening a folder",
+         "fa": "* وادار کردن ویندوز XP به نمایش یک رابط کاربری خاص هنگام باز کردن یک پوشه",
+         "tr": "* Windows XP'yi bir klasör açıldığında belirli bir UI göstermeye zorlamak",
+         "ar": "* جعل Windows XP يعرض واجهة مستخدم محددة عند فتح مجلد",
+         "de": "* Windows XP dazu bringen, eine bestimmte Benutzeroberfläche beim Öffnen eines Ordners anzuzeigen",
+         "zh": "* 使Windows XP在打开文件夹时显示特定的UI"
+      },
+      "technologies": ["c"]
+   },
+   {
+      "name": "LoolCut",
+      "description": {
+         "en": "An AI-based pipe cutting application that successfully <u>saved 18% of waste</u>. This was my first standalone project.",
+         "fa": "یک برنامه برش لوله مبتنی بر هوش مصنوعی که با موفقیت <u>18٪ از ضایعات را ذخیره کرد</u>.",
+         "tr": "Başarıyla <u>%18 atığı kurtaran</u> bir AI tabanlı boru kesme uygulaması.",
+         "ar": "تطبيق قطع الأنابيب القائم على الذكاء الاصطناعي الذي <u>وفر 18٪ من النفايات</u> بنجاح.",
+         "de": "Eine KI-basierte Rohrschneideanwendung, die erfolgreich <u>18% Abfall eingespart</u> hat.",
+         "zh": "一个成功<u>节省了18％的浪费</u>的基于AI的管道切割应用程序。"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* AI Expert\n* Back-End developer\n* Front-End developer\n* Marketing & Sales",
+         "fa": "* تحلیلگر کسب و کار\n* متخصص هوش مصنوعی\n* ت��سعه دهنده بک اند\n* توسعه دهنده فرانت اند\n* بازاریابی و فروش",
+         "tr": "* İş Analisti\n* AI Uzmanı\n* Back-End geliştirici\n* Front-End geliştirici\n* Pazarlama ve Satış",
+         "ar": "* محلل الأعمال\n* خبير الذكاء الاصطناعي\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية\n* التسويق والمبيعات",
+         "de": "* Business Analyst\n* KI-Experte\n* Back-End Entwickler\n* Front-End Entwickler\n* Marketing & Vertrieb",
+         "zh": "* 业务分析师\n* AI专家\n* 后端开发人员\n* 前端开发人员\n* 市场营销与销售"
+      },
+      "technicalChallenges": {
+         "en": "* Addressing the pipes in the warehouse\n* Performing abondon operation on a single pipe in the middle of the operation\n* Connecting to the warehouse system",
+         "fa": "* آدرس دهی به لوله ها در انبار\n* انجام عملیات رها کردن روی یک لوله در وسط عملیات\n* اتصال به سیستم انبار",
+         "tr": "* Depodaki boruları adresleme\n* Operasyonun ortasında tek bir boru üzerinde bırakma işlemi gerçekleştirme\n* Depo sistemine bağlanma",
+         "ar": "* معالجة الأنابيب في المستودع\n* تنفيذ عملية التخلي على أنبوب واحد في منتصف العملية\n* الاتصال بنظام المستودع",
+         "de": "* Adressierung der Rohre im Lager\n* Durchführung einer Abbruchoperation an einem einzelnen Rohr während des Betriebs\n* Verbindung zum Lagersystem",
+         "zh": "* 在仓库中定位管道\n* 在操作过程中对单个管道执行放弃操作\n* 连接到仓库系统"
+      },
+      "technologies": ["python", "net48", "sql", "wpf"]
+   },
+   {
+      "name": "Spool Fabrication Simulator",
+      "description": {
+         "en": "<u>The first Iranian software</u> for technical and financial assessment of spool workshops.",
+         "fa": "<u>اولین نرم افزار ایرانی</u> برای ارزیابی فنی و مالی کارگاه های اسپول.",
+         "tr": "Makara atölyelerinin teknik ve finansal değerlendirmesi için <u>ilk İran yazılımı</u>.",
+         "ar": "أول برنامج إيراني</u> للتقييم الفني والمالي لورش العمل البكرات.",
+         "de": "<u>Die erste iranische Software</u> zur technischen und finanziellen Bewertung von Spulenwerkstätten.",
+         "zh": "用于卷轴车间技术和财务评估的<u>第一个伊朗软件</u>。"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* AI Expert\n* Back-End developer\n* Front-End developer\n* Marketing & Sales",
+         "fa": "* تحلیلگر کسب و کار\n* متخصص هوش مصنوعی\n* توسعه دهنده بک اند\n* توسعه دهنده فرانت اند\n* بازاریابی و فروش",
+         "tr": "* İş Analisti\n* AI Uzmanı\n* Back-End geliştirici\n* Front-End geliştirici\n* Pazarlama ve Satış",
+         "ar": "* محلل الأعمال\n* خبير الذكاء الاصطناعي\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية\n* التسويق والمبيعات",
+         "de": "* Business Analyst\n* KI-Experte\n* Back-End Entwickler\n* Front-End Entwickler\n* Marketing & Vertrieb",
+         "zh": "* 业务分析师\n* AI专家\n* 后端开发人员\n* 前端开发人员\n* 市场营销与销售"
+      },
+      "technicalChallenges": {
+         "en": "* Strong ability to correct data errors while keep tracking of who changed the data",
+         "fa": "* توانایی قوی در تصحیح خطاهای داده در حالی که پیگیری می کند که چه کسی داده ها را تغییر داده است",
+         "tr": "* Verileri kimin değiştirdiğini takip ederken veri hatalarını düzeltme yeteneği",
+         "ar": "* قدرة قوية على تصحيح أخطاء البيانات مع تتبع من قام بتغيير البيانات",
+         "de": "* Starke Fähigkeit zur Korrektur von Datenfehlern bei gleichzeitiger Verfolgung, wer die Daten geändert hat",
+         "zh": "* 强大的纠正数据错误的能力，同时跟踪谁更改了数据"
+      },
+      "technologies": ["net", "wpf", "mysql"]
+   },
+   {
+      "name": "Fire Stations",
+      "description": {
+         "en": "An application managed by the municipality to handle the issuance of safety certifications by the Fire Suppression organization for civil buildings."
+      },
+      "descriptionUrl": "assets/data/project-4.md",
+      "role": {
+         "en": "Front-End Developer",
+         "fa": "توسعه دهنده فرانت اند",
+         "tr": "Front-End geliştirici",
+         "ar": "مطور الواجهة الأمامية",
+         "de": "Front-End Entwickler",
+         "zh": "前端开发人员"
+      },
+      "technicalChallenges": {
+         "en": "* Developing the entire application as a module under DotNetNuke CMS.",
+         "fa": "* توسعه کل برنامه به عنوان یک ماژول تحت DotNetNuke CMS.",
+         "tr": "* DotNetNuke CMS altında bir modül olarak tüm uygulamayı geliştirme.",
+         "ar": "* تطوير التطبيق بالكامل كوحدة تحت DotNetNuke CMS.",
+         "de": "* Entwicklung der gesamten Anwendung als Modul unter DotNetNuke CMS.",
+         "zh": "* 作为DotNetNuke CMS下的模块开发整个应用程序。"
+      },
+      "technologies": ["angularjs", "net48"]
+   },
+   {
+      "name": "News Reader",
+      "description": {
+         "en": "An online application to read news from various feeds and display breaking news for advertisement purposes."
+      },
+      "role": {
+         "en": "* Business Analyzer\n* AI Expert\n* Back-End developer\n* Front-End developer\n* Marketing & Sales",
+         "fa": "* تحلیلگر کسب و کار\n* متخصص هوش مصنوعی\n* توسعه دهنده بک اند\n* توسعه دهنده فرانت اند\n* بازاریابی و فروش",
+         "tr": "* İş Analisti\n* AI Uzmanı\n* Back-End geliştirici\n* Front-End geliştirici\n* Pazarlama ve Satış",
+         "ar": "* محلل الأعمال\n* خبير الذكاء الاصطناعي\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية\n* التسويق والمبيعات",
+         "de": "* Business Analyst\n* KI-Experte\n* Back-End Entwickler\n* Front-End Entwickler\n* Marketing & Vertrieb",
+         "zh": "* 业务分析师\n* AI专家\n* 后端开发人员\n* 前端开发人员\n* 市场营销与销售"
+      },
+      "technicalChallenges": {
+         "en": "* Reading RSS feeds recursively from different sources and displaying them in a unified format.",
+         "fa": "* خواندن فیدهای RSS به صورت بازگشتی از منابع مختلف و نمایش آنها در یک قالب یکپارچه.",
+         "tr": "* Farklı kaynaklardan RSS beslemelerini yinelemeli olarak okuma ve bunları tek bir formatta görüntüleme.",
+         "ar": "* قراءة خلاصات RSS بشكل متكرر من مصادر مختلفة وعرضها بتنسيق موحد.",
+         "de": "* Rekursives Lesen von RSS-Feeds aus verschiedenen Quellen und Anzeige in einem einheitlichen Format.",
+         "zh": "* 从不同来源递归读取RSS源并以统一格式显示。"
+      },
+      "technologies": ["net48", "sql", "angularjs"]
+   },
+   {
+      "name": "24ta.ir",
+      "description": {
+         "en": "An online shop website implemented without using any shop-makers.",
+         "fa": "یک وب سایت فروشگاه آنلاین که بدون استفاده از هیچ فروشگاه سازی پیاده سازی شده است.",
+         "tr": "Herhangi bir mağaza yapıcı kullanmadan uygulanan bir online alışveriş sitesi.",
+         "ar": "موقع تسوق عبر الإنترنت تم تنفيذه بدون استخدام أي صانعي متاجر.",
+         "de": "Eine Online-Shop-Website, die ohne Verwendung von Shop-Machern implementiert wurde.",
+         "zh": "一个在线商店网站，没有使用任何商店制造商。"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* AI Expert\n* Back-End developer\n* Front-End developer\n* Marketing & Sales",
+         "fa": "* تحلیلگر کسب و کار\n* متخصص هوش مصنوعی\n* توسعه دهنده بک اند\n* توسعه دهنده فرانت اند\n* بازاریابی و فروش",
+         "tr": "* İş Analisti\n* AI Uzmanı\n* Back-End geliştirici\n* Front-End geliştirici\n* Pazarlama ve Satış",
+         "ar": "* محلل الأعمال\n* خبير الذكاء الاصطناعي\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية\n* التسويق والمبيعات",
+         "de": "* Business Analyst\n* KI-Experte\n* Back-End Entwickler\n* Front-End Entwickler\n* Marketing & Vertrieb",
+         "zh": "* 业务分析师\n* AI专家\n* 后端开发人员\n* 前端开发人员\n* 市场营销与销售"
+      },
+      "technologies": ["bootstrap", "jquery", "angularjs", "net48", "sql"]
+   },
+   {
+      "name": "@JimliBot",
+      "description": {
+         "en": "The first Iranian shopping Telegram Bot, implemented with BotAPI@1.",
+         "fa": "اولین ربات تلگرام خرید ایرانی، پیاده سازی شده با BotAPI@1.",
+         "tr": "BotAPI@1 ile uygulanan ilk İran alışveriş Telegram Botu.",
+         "ar": "أول روبوت تسوق إيراني على Telegram، تم تنفيذه باستخدام BotAPI@1.",
+         "de": "Der erste iranische Einkaufs-Telegramm-Bot, implementiert mit BotAPI@1.",
+         "zh": "第一个伊朗购物Telegram机器人，使用BotAPI@1实现。"
+      },
+      "role": {
+         "en": "* Business Analyzer\n* AI Expert\n* Back-End developer\n* Front-End developer\n* Marketing & Sales",
+         "fa": "* تحلیلگر کسب و کار\n* متخصص هوش مصنوعی\n* توسعه دهنده بک اند\n* توسعه دهنده فرانت اند\n* بازاریابی و فروش",
+         "tr": "* İş Analisti\n* AI Uzmanı\n* Back-End geliştirici\n* Front-End geliştirici\n* Pazarlama ve Satış",
+         "ar": "* محلل الأعمال\n* خبير الذكاء الاصطناعي\n* مطور الواجهة الخلفية\n* مطور الواجهة الأمامية\n* التسويق والمبيعات",
+         "de": "* Business Analyst\n* KI-Experte\n* Back-End Entwickler\n* Front-End Entwickler\n* Marketing & Vertrieb",
+         "zh": "* 业务分析师\n* AI专家\n* 后端开发人员\n* 前端开发人员\n* 市场营销与销售"
+      },
+      "technologies": ["sql", "node", "net48"]
+   }
+]

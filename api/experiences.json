@@ -1,0 +1,229 @@
+[
+   {
+      "company": "Ninox Gmbh.",
+      "link": "https://ninox.com/en",
+      "role": {
+         "en": "Sen. Full-Stack Developer (Freelancer)",
+         "fa": "توسعه‌دهنده فول‌استک ارشد (فریلنسر)",
+         "tr": "Kıdemli Tam Yığın Geliştirici (Freelancer)",
+         "de": "Senior Full-Stack Entwickler (Freiberufler)",
+         "ar": "مطور شامل أول (عمل حر)",
+         "zh": "高级全栈开发人员（自由职业者）"
+      },
+      "location": {
+         "en": "Berlin / Germany",
+         "fa": "برلین / آلمان",
+         "tr": "Berlin / Almanya",
+         "de": "Berlin / Deutschland",
+         "ar": "برلين / ألمانيا",
+         "zh": "柏林 / 德国"
+      },
+      "dateStart": "2022-05-04T00:00:00.000Z",
+      "description": {
+         "en": "Ninox is a cloud-based, no-code platform designed for creating customizable business applications and databases. It empowers users to streamline workflows, automate processes, and manage data effectively, offering tools for collaboration, reporting, and integration without requiring extensive programming knowledge.\n\nI started to work as a Front-End developer at Ninox, then transitioned to the Back-End team. During my tenure, I achieved the following milestones:\n\n- **As a Front-End Developer**:\n  - Implemented a table component as the onboarding project, enabling the editing of tabular data with multiple cell-editor types.\n  - Fixed bugs and contributed to code maintenance.\n  - Improved code quality by migrating from JQuery to React.\n  - Ensured code maintainability by writing unit and integration tests.\n\n- **As a Back-End Developer**:\n  - Developed and maintained the User Management service by adding new features and resolving issues.\n  - Wrote tests to ensure smooth functionality after every refactoring.",
+         "fa": "Ninox یک پلتفرم بدون کدنویسی مبتنی بر ابر است که برای ایجاد برنامه‌های کسب‌وکار قابل تنظیم و پایگاه‌های داده طراحی شده است. این پلتفرم به کاربران امکان می‌دهد جریان‌های کاری را ساده کنند، فرآیندها را خودکار کنند و داده‌ها را به طور مؤثر مدیریت کنند و ابزارهایی برای همکاری، گزارش‌گیری و یکپارچه‌سازی بدون نیاز به دانش گسترده برنامه‌نویسی ارائه می‌دهد.\n\nمن کار خود را به عنوان توسعه‌دهنده فرانت‌اند در Ninox آغاز کردم و سپس به تیم بک‌اند منتقل شدم. در این مدت، به دستاوردهای زیر رسیدم:\n\n- **به عنوان توسعه‌دهنده فرانت‌اند**:\n  - یک کامپوننت جدول به عنوان پروژه ورود، پیاده‌سازی کردم که امکان ویرایش داده‌های جدولی با چندین نوع ویرایشگر سلول را فراهم می‌کرد.\n  - باگ‌ها را رفع و در نگهداری کدها کمک کردم.\n  - کیفیت کد را با مهاجرت از JQuery به React بهبود دادم.\n  - با نوشتن تست‌های واحد و یکپارچه، کدهای قابل نگهداری ایجاد کردم.\n\n- **به عنوان توسعه‌دهنده بک‌اند**:\n  - سرویس مدیریت کاربران را با افزودن ویژگی‌های جدید و رفع مشکلات، توسعه و نگهداری کردم.\n  - تست‌هایی نوشتم تا مطمئن شوم که هر بازسازی به درستی کار می‌کند.",
+         "tr": "Ninox, özelleştirilebilir iş uygulamaları ve veritabanları oluşturmak için tasarlanmış bulut tabanlı, kodsuz bir platformdur. Kullanıcıların iş akışlarını kolaylaştırmalarını, süreçleri otomatikleştirmelerini ve verileri etkili bir şekilde yönetmelerini sağlar. Ayrıca, kapsamlı programlama bilgisi gerektirmeden işbirliği, raporlama ve entegrasyon araçları sunar.\n\nNinox'ta ön uç geliştiricisi olarak çalışmaya başladım ve ardından Arka Uç ekibine geçtim. Görev sürem boyunca şu başarıları elde ettim:\n\n- **Ön Uç Geliştiricisi olarak**:\n  - Tablosal verilerin birden çok hücre düzenleyici türü ile düzenlenmesini sağlayan bir tablo bileşeni uyguladım.\n  - Hataları düzelttim ve kodların bakımına yardımcı oldum.\n  - Kod kalitesini JQuery'den React'e geçerek iyileştirdim.\n  - Birim ve entegrasyon testleri yazarak sürdürülebilir kodlar yazdım.\n\n- **Arka Uç Geliştiricisi olarak**:\n  - Kullanıcı Yönetimi hizmetini yeni özellikler ekleyerek ve sorunları çözerek geliştirdim ve bakımını yaptım.\n  - Yeniden düzenlemeden sonra her şeyin düzgün çalıştığından emin olmak için testler yazdım.",
+         "de": "Ninox ist eine cloudbasierte, codefreie Plattform zur Erstellung anpassbarer Geschäftsanwendungen und Datenbanken. Sie ermöglicht es Benutzern, Arbeitsabläufe zu optimieren, Prozesse zu automatisieren und Daten effektiv zu verwalten. Außerdem bietet sie Werkzeuge für Zusammenarbeit, Berichterstellung und Integration, ohne umfangreiche Programmierkenntnisse zu erfordern.\n\nIch begann als Frontend-Entwickler bei Ninox zu arbeiten und wechselte später in das Backend-Team. Während meiner Tätigkeit habe ich die folgenden Meilensteine erreicht:\n\n- **Als Frontend-Entwickler**:\n  - Implementierung einer Tabellenkomponente als Onboarding-Projekt, die die Bearbeitung tabellarischer Daten mit verschiedenen Zell-Editor-Typen ermöglichte.\n  - Fehler behoben und zur Codewartung beigetragen.\n  - Verbesserung der Codequalität durch Migration von JQuery zu React.\n  - Sicherstellung der Wartbarkeit des Codes durch Schreiben von Unit- und Integrationstests.\n\n- **Als Backend-Entwickler**:\n  - Entwicklung und Wartung des Benutzermanagement-Dienstes durch Hinzufügen neuer Funktionen und Behebung von Problemen.\n  - Schreiben von Tests, um sicherzustellen, dass jede Umstrukturierung reibungslos funktioniert.",
+         "ar": "Ninox هو منصة بدون كود قائمة على السحابة مصممة لإنشاء تطبيقات وقواعد بيانات أعمال قابلة للتخصيص. تمكن المستخدمين من تبسيط تدفقات العمل، وأتمتة العمليات، وإدارة البيانات بفعالية، مع توفير أدوات للتعاون، وإعداد التقارير، والتكامل دون الحاجة إلى معرفة برمجية واسعة.\n\nبدأت العمل كمطور واجهة أمامية في Ninox، ثم انتقلت إلى فريق الخلفية. خلال فترة عملي، حققت الإنجازات التالية:\n\n- **كمطور واجهة أمامية**:\n  - تنفيذ مكون جدول كمشروع تقديمي يتيح تحرير البيانات الجدولية باستخدام أنواع تحرير خلايا متعددة.\n  - إصلاح الأخطاء والمساعدة في صيانة الأكواد.\n  - تحسين جودة الأكواد من خلال الانتقال من JQuery إلى React.\n  - كتابة أكواد قابلة للصيانة من خلال كتابة اختبارات الوحدة والاندماج.\n\n- **كمطور خلفية**:\n  - تطوير وصيانة خدمة إدارة المستخدمين من خلال إضافة ميزات جديدة وحل المشكلات.\n  - كتابة اختبارات لضمان عمل التعديلات بشكل صحيح بعد كل عملية إعادة هيكلة.",
+         "zh": "Ninox 是一个基于云的无代码平台，旨在创建可自定义的业务应用程序和数据库。它使用户能够简化工作流程、自动化操作并有效管理数据，同时提供协作、报告和集成工具，无需广泛的编程知识。\n\n我在 Ninox 开始担任前端开发人员，然后转到后端团队。任职期间，我取得了以下成就：\n\n- **作为前端开发人员**：\n  - 实现了一个表格组件作为入职项目，该组件支持使用多种单元编辑器类型编辑表格数据。\n  - 修复了代码中的错误并协助维护代码。\n  - 通过将代码从 JQuery 迁移到 React，提高了代码质量。\n  - 通过编写单元测试和集成测试，确保了代码的可维护性。\n\n- **作为后端开发人员**：\n  - 通过添加新功能和修复问题，开发并维护了用户管理服务。\n  - 编写了测试，以确保每次重构后系统功能正常运行。"
+      }
+   },
+   {
+      "company": "AnyWork Gmbh.",
+      "role": {
+         "en": "Sen. Front-End Lead Engineer",
+         "fa": "مهندس ارشد فرانت‌اند",
+         "tr": "Kıdemli Ön Uç Lider Mühendisi",
+         "de": "Senior Front-End Lead Engineer",
+         "ar": "مهندس رئيسي للواجهة الأمامية",
+         "zh": "高级前端主管工程师"
+      },
+      "link": "http://AnyWork.gmbh",
+      "location": {
+         "en": "Dusseldorf / Germany",
+         "fa": "دوسلدورف / آلمان",
+         "tr": "Düsseldorf / Almanya",
+         "de": "Düsseldorf / Deutschland",
+         "ar": "دوسلدورف / ألمانيا",
+         "zh": "杜塞尔多夫 / 德国"
+      },
+      "dateStart": "2019-11-01T00:00:00.000Z",
+      "description": {
+         "en": "AnyWork is a cloud-based enterprise workflow management application. Unlike traditional software, it goes beyond simple workflows by offering built-in modules such as ERP, CRM, and more, focusing on dynamic solutions. For instance, users can create their own tables, workflows, and other customizable features.\n\nIn alignment with the agile structure of the development team, I began my role as a front-end developer and progressively advanced to become the Front-End Team Leader after two years. During my tenure, I achieved the following milestones:\n\n- **Angular Application Infrastructure**: Designed and implemented the Angular application infrastructure, including library modules, generic services, and TypeScript libraries. Successfully migrated the top application structure from MVC to Angular, enabling the separation of the monorepo project for enhanced code safety and segregation of concerns.\n- **Automation for Front-End Integration**: Developed a fully automated mechanism to pipeline changes from services directly to the front-end application. This eliminated manual tasks like rewriting data models in TypeScript, significantly improving efficiency.\n- **Team Leadership**: As the Front-End Team Leader, introduced and enforced professional development practices, including mandatory pull requests and adherence to development standards.\n- **DevOps and Deployment Automation**: Built Azure DevOps pipelines to automate build and deployment operations, streamlining the release process.\n- **Kubernetes Implementation**: Introduced and implemented Kubernetes in the organization to enhance scalability and orchestration.\n- **Technology Alignment**: Consistently stayed at the forefront of cutting-edge technologies to meet the company's evolving requirements.\n- **UX/UI Collaboration**: Collaborated with UX/UI designers at a coaching level to ensure design alignment with development goals.\n- **Mentorship and Coaching**: Provided guidance and mentorship to junior colleagues, fostering growth and skill development.\n- **Dashboard Module Development**: Designed and implemented a stand-alone dashboard module for the application, featuring dynamic dashboard creation akin to MS Power BI with dynamic data source loading.\n- **Dynamic Page Creation**: Designed and implemented a feature for dynamic page creation to meet evolving business needs.\n- **Legacy Code Modernization**: Transformed old ASP.NET MVC Razor pages into a modern AngularTS application. Maintained, refactored, and rewrote legacy code written in ASP.NET MVC, JQuery, and Bootstrap.\n- **Creative Problem Solving**: Delivered innovative and efficient solutions to complex problems, consistently driving value for the organization.\n\nThis comprehensive experience reflects my dedication to innovation, leadership, and delivering impactful technical solutions within an agile environment.",
+         "fa": "AnyWork یک نرم‌افزار مدیریت جریان‌کار سازمانی مبتنی بر ابر است. برخلاف نرم‌افزارهای سنتی، این سیستم فراتر از جریان‌های کاری ساده عمل کرده و ماژول‌های داخلی متنوعی مانند ERP، CRM و موارد دیگر را با تمرکز بر راه‌حل‌های پویا ارائه می‌دهد. به عنوان مثال، کاربران می‌توانند جداول، جریان‌های کاری و سایر ویژگی‌های قابل تنظیم خود را ایجاد کنند.\n\nدر راستای ساختار چابک تیم توسعه، من نقش خود را به عنوان توسعه‌دهنده فرانت‌اند آغاز کردم و پس از دو سال به تدریج به سمت رهبر تیم فرانت‌اند ارتقا یافتم. در طول مدت همکاری خود، به دستاوردهای زیر نائل شدم:\n\n- **زیرساخت برنامه Angular**: طراحی و پیاده‌سازی زیرساخت برنامه Angular، شامل ماژول‌های کتابخانه‌ای، سرویس‌های عمومی، و کتابخانه‌های TypeScript. با موفقیت ساختار بالای برنامه را از MVC به Angular منتقل کردیم و این امکان را فراهم کردیم تا پروژه Monorepo را برای افزایش امنیت کدها و جداسازی ملاحظات تفکیک کنیم.\n- **اتوماسیون برای یکپارچه‌سازی فرانت‌اند**: مکانیزم کاملاً خودکاری برای اتصال تغییرات از سرویس‌ها به برنامه فرانت‌اند توسعه دادم. این مکانیزه‌سازی نیاز به وظایف دستی مانند بازنویسی مدل‌های داده در TypeScript را از بین برد و به طور قابل توجهی بهره‌وری را افزایش داد.\n- **رهبری تیم**: به عنوان رهبر تیم فرانت‌اند، شیوه‌های توسعه حرفه‌ای از جمله ایجاد Pull Request و رعایت استانداردهای توسعه را معرفی و اجباری کردم.\n- **اتوماسیون DevOps و استقرار**: لوله‌های Azure DevOps را برای خودکارسازی عملیات ساخت و استقرار ایجاد کردم.\n- **پیاده‌سازی Kubernetes**: Kubernetes را در سازمان معرفی و پیاده‌سازی کردم تا مقیاس‌پذیری و اورکستراسیون را افزایش دهم.\n- **همکاری با UX/UI**: در سطح مشاوره با طراحان UX/UI همکاری کردم تا اطمینان حاصل شود که طراحی‌ها با اهداف توسعه همسو هستند.\n- **مشاوره و راهنمایی**: به همکاران مبتدی راهنمایی و مشاوره ارائه کردم و به رشد و توسعه مهارت‌های آنان کمک کردم.\n- **توسعه ماژول داشبورد**: طراحی و پیاده‌سازی یک ماژول مستقل داشبورد برای برنامه، با ویژگی‌های ایجاد داشبورد دینامیک مشابه MS Power BI و بارگذاری منابع داده پویا.\n- **ایجاد صفحات دینامیک**: ویژگی ایجاد صفحات دینامیک را برای پاسخگویی به نیازهای متغیر کسب‌وکار طراحی و پیاده‌سازی کردم.\n- **به‌روز‌رسانی کدهای قدیمی**: صفحات Razor MVC ASP.NET قدیمی را به برنامه AngularTS مدرن تبدیل کردم. کدهای قدیمی نوشته شده در ASP.NET MVC، JQuery و Bootstrap را نگهداری، بازنویسی و بهینه کردم.\n- **حل خلاقانه مسائل**: راه‌حل‌های نوآورانه و کارآمدی برای مسائل پیچیده ارائه دادم و همواره ارزشی برای سازمان ایجاد کردم.\n\nاین تجربه جامع تعهد من به نوآوری، رهبری، و ارائه راه‌حل‌های فنی مؤثر در یک محیط چابک را نشان می‌دهد.",
+         "tr": "AnyWork, bulut tabanlı bir kurumsal iş akışı yönetimi uygulamasıdır. Geleneksel yazılımların aksine, ERP, CRM gibi yerleşik modüller sunarak dinamik çözümlere odaklanır. Örneğin, kullanıcılar kendi tablolarını, iş akışlarını ve diğer özelleştirilebilir özellikleri oluşturabilirler.\n\nGeliştirme ekibinin çevik yapısına uygun olarak, ön uç geliştiricisi olarak görevime başladım ve iki yıl içinde kademeli olarak Ön Uç Ekip Lideri oldum. Bu süre zarfında şu başarılara ulaştım:\n\n- **Angular Uygulama Altyapısı**: Kütüphane modülleri, genel hizmetler ve TypeScript kütüphanelerini içeren Angular uygulama altyapısını tasarladım ve uyguladım. MVC'den Angular'a geçiş yaparak, monorepo projesinin güvenliğini artırmak ve endişeleri ayırmak için projeyi böldük.\n- **Ön Uç Entegrasyonu için Otomasyon**: Hizmetlerden ön uç uygulamasına yapılan değişiklikleri otomatikleştirmek için tamamen otomatik bir mekanizma geliştirdim. Bu, TypeScript'teki veri modellerini yeniden yazma gibi manuel işleri ortadan kaldırarak verimliliği önemli ölçüde artırdı.\n- **Ekip Liderliği**: Ön Uç Ekip Lideri olarak, pull request oluşturma ve geliştirme standartlarına uyma gibi profesyonel geliştirme uygulamalarını tanıttım ve zorunlu kıldım.\n- **DevOps ve Dağıtım Otomasyonu**: Yapı ve dağıtım işlemlerini otomatikleştirmek için Azure DevOps boru hatları oluşturdum.\n- **Kubernetes Uygulaması**: Ölçeklenebilirlik ve düzenleme artırmak için Kubernetes'i tanıttım ve uyguladım.\n- **Teknoloji Uyumu**: Şirketin gereksinimlerini karşılamak için sürekli olarak son teknolojilerle uyumlu kaldım.\n- **UX/UI İşbirliği**: UX/UI tasarımcılarıyla koçluk seviyesinde işbirliği yaptım.\n- **Mentorluk ve Rehberlik**: Daha genç meslektaşlara rehberlik ve danışmanlık yaparak becerilerini geliştirmelerine yardımcı oldum.\n- **Gösterge Tablosu Modülü Geliştirme**: MS Power BI benzeri dinamik gösterge tablosu oluşturma ve dinamik veri kaynağı yükleme özelliklerine sahip bağımsız bir gösterge tablosu modülü tasarladım ve uyguladım.\n- **Dinamik Sayfa Oluşturma**: Değişen iş ihtiyaçlarını karşılamak için dinamik sayfa oluşturma özelliği tasarladım ve uyguladım.\n- **Eski Kodların Modernizasyonu**: Eski ASP.NET MVC Razor sayfalarını modern AngularTS uygulamasına dönüştürdüm. ASP.NET MVC, JQuery ve Bootstrap ile yazılmış eski kodları bakımını yaptım, yeniden yapılandırdım ve yeniden yazdım.\n- **Yaratıcı Sorun Çözme**: Karmaşık problemlere yenilikçi ve verimli çözümler sağlayarak sürekli olarak şirkete değer kattım.\n\nBu kapsamlı deneyim, çevik bir ortamda yenilik, liderlik ve etkili teknik çözümler sunmaya olan bağlılığımı göstermektedir.",
+         "de": "AnyWork ist eine cloudbasierte Anwendung für das Management von Unternehmens-Workflows. Im Gegensatz zu herkömmlicher Software geht sie über einfache Workflows hinaus und bietet integrierte Module wie ERP, CRM und mehr, mit einem Fokus auf dynamische Lösungen. Benutzer können beispielsweise ihre eigenen Tabellen, Workflows und andere anpassbare Funktionen erstellen.\n\nIm Einklang mit der agilen Struktur des Entwicklungsteams begann ich meine Rolle als Frontend-Entwickler und wurde nach zwei Jahren schrittweise zum Frontend-Teamleiter befördert. Während meiner Tätigkeit habe ich die folgenden Meilensteine erreicht:\n\n- **Angular-Anwendungsinfrastruktur**: Gestaltung und Implementierung der Angular-Anwendungsinfrastruktur, einschließlich Bibliotheksmodulen, generischen Diensten und TypeScript-Bibliotheken. Erfolgreicher Übergang der obersten Anwendungsstruktur von MVC zu Angular, wodurch das Monorepo-Projekt getrennt wurde, um die Codesicherheit zu verbessern und Verantwortlichkeiten zu trennen.\n- **Automatisierung für Frontend-Integration**: Entwicklung eines vollautomatisierten Mechanismus zur Übertragung von Änderungen aus Diensten direkt in die Frontend-Anwendung. Dies beseitigte manuelle Aufgaben wie das Umschreiben von Datenmodellen in TypeScript und verbesserte die Effizienz erheblich.\n- **Teamleitung**: Als Frontend-Teamleiter habe ich professionelle Entwicklungspraktiken eingeführt und durchgesetzt, einschließlich obligatorischer Pull-Requests und Einhaltung von Entwicklungsstandards.\n- **DevOps- und Bereitstellungsautomatisierung**: Erstellung von Azure DevOps-Pipelines zur Automatisierung von Build- und Bereitstellungsvorgängen, um den Veröffentlichungsprozess zu optimieren.\n- **Kubernetes-Implementierung**: Einführung und Implementierung von Kubernetes in der Organisation zur Verbesserung der Skalierbarkeit und Orchestrierung.\n- **Technologieanpassung**: Ständige Anpassung an modernste Technologien, um die sich ändernden Anforderungen des Unternehmens zu erfüllen.\n- **Zusammenarbeit mit UX/UI**: Zusammenarbeit mit UX/UI-Designern auf Coaching-Ebene, um die Übereinstimmung von Design und Entwicklungszielen sicherzustellen.\n- **Mentoring und Coaching**: Bereitstellung von Anleitung und Mentoring für jüngere Kollegen, um Wachstum und Kompetenzentwicklung zu fördern.\n- **Dashboard-Modul-Entwicklung**: Gestaltung und Implementierung eines eigenständigen Dashboard-Moduls für die Anwendung mit dynamischer Dashboard-Erstellung ähnlich wie MS Power BI und dynamischem Laden von Datenquellen.\n- **Dynamische Seitenerstellung**: Gestaltung und Implementierung einer Funktion zur dynamischen Seitenerstellung zur Erfüllung der sich ändernden Geschäftsanforderungen.\n- **Modernisierung von Legacy-Code**: Umwandlung alter ASP.NET MVC Razor-Seiten in eine moderne AngularTS-Anwendung. Wartung, Refactoring und Neuschreiben von Legacy-Code, der in ASP.NET MVC, JQuery und Bootstrap geschrieben wurde.\n- **Kreative Problemlösung**: Lieferung innovativer und effizienter Lösungen für komplexe Probleme, die kontinuierlich einen Mehrwert für die Organisation schafften.\n\nDiese umfassende Erfahrung spiegelt mein Engagement für Innovation, Führung und die Bereitstellung wirkungsvoller technischer Lösungen in einer agilen Umgebung wider.",
+         "ar": "AnyWork هو تطبيق قائم على السحابة لإدارة تدفقات عمل المؤسسات. على عكس البرامج التقليدية، يقدم ميزات متقدمة تتجاوز إدارة تدفقات العمل البسيطة، مثل وحدات مدمجة لأنظمة ERP و CRM وغيرها، مع التركيز على الحلول الديناميكية. يمكن للمستخدمين على سبيل المثال إنشاء جداولهم الخاصة، وتدفقات العمل، وغيرها من الخصائص القابلة للتخصيص.\n\nتماشيًا مع الهيكلية المرنة لفريق التطوير، بدأت دوري كمطور واجهة أمامية وتقدمت تدريجيًا لأصبح قائد فريق الواجهة الأمامية بعد عامين. خلال فترة عملي، حققت المعالم التالية:\n\n- **بنية تطبيق Angular**: تصميم وتنفيذ بنية تطبيق Angular، بما في ذلك وحدات المكتبات والخدمات العامة ومكتبات TypeScript. تم الانتقال بنجاح من هيكلية MVC إلى Angular، مما أتاح فصل مشروع Monorepo لتحسين أمان الأكواد وتقسيم المسؤوليات.\n- **أتمتة تكامل الواجهة الأمامية**: تطوير آلية مؤتمتة بالكامل لنقل التغييرات من الخدمات إلى تطبيق الواجهة الأمامية. ساعد هذا في القضاء على المهام اليدوية مثل إعادة كتابة نماذج البيانات في TypeScript وزيادة الكفاءة بشكل كبير.\n- **قيادة الفريق**: كقائد لفريق الواجهة الأمامية، قدمت وفرضت ممارسات تطوير احترافية، بما في ذلك طلبات السحب (Pull Requests) والالتزام بالمعايير المهنية.\n- **أتمتة DevOps والنشر**: بناء خطوط DevOps Azure لأتمتة عمليات الإنشاء والنشر، مما أدى إلى تحسين عملية الإصدار.\n- **تنفيذ Kubernetes**: تقديم وتنفيذ Kubernetes داخل المنظمة لتحسين القابلية للتوسع والإدارة.\n- **مواكبة التكنولوجيا**: الحفاظ على الالتزام بأحدث التقنيات لتلبية احتياجات الشركة المتطورة.\n- **التعاون مع UX/UI**: التعاون مع مصممي UX/UI على مستوى استشاري لضمان توافق التصميم مع أهداف التطوير.\n- **الإرشاد والتوجيه**: تقديم الإرشاد والتوجيه للزملاء الجدد، مما ساهم في تطويرهم المهني.\n- **تطوير وحدة لوحة التحكم**: تصميم وتنفيذ وحدة لوحة تحكم مستقلة للتطبيق، تتضمن إنشاء لوحات ديناميكية مثل MS Power BI مع تحميل ديناميكي لمصادر البيانات.\n- **إنشاء الصفحات الديناميكية**: تصميم وتنفيذ خاصية لإنشاء الصفحات الديناميكية لتلبية احتياجات العمل المتغيرة.\n- **تحديث الكود القديم**: تحويل صفحات Razor MVC ASP.NET القديمة إلى تطبيق AngularTS حديث. صيانة وإعادة هيكلة وإعادة كتابة الكود القديم المكتوب باستخدام ASP.NET MVC و JQuery و Bootstrap.\n- **حلول إبداعية للمشاكل**: تقديم حلول مبتكرة وفعالة للمشاكل المعقدة، مما أضاف قيمة مستمرة للمنظمة.\n\nتُظهر هذه الخبرة الشاملة التزامي بالابتكار والقيادة وتقديم حلول تقنية فعالة في بيئة مرنة.",
+         "zh": "AnyWork 是一个基于云的企业工作流管理应用程序。与传统软件不同，它不仅仅限于简单的工作流管理，还提供了如 ERP、CRM 等内置模块，专注于动态解决方案。例如，用户可以创建自己的表格、工作流和其他可定制的功能。\n\n为了适应开发团队的敏捷结构，我以前端开发人员的身份开始了我的工作，并在两年后逐步晋升为前端团队负责人。在任职期间，我达成了以下里程碑：\n\n- **Angular 应用程序架构**：设计并实现了 Angular 应用程序架构，包括库模块、通用服务和 TypeScript 库。成功将顶层应用程序架构从 MVC 迁移到 Angular，从而实现了 Monorepo 项目的分离，提高了代码安全性并实现了关注点分离。\n- **前端集成自动化**：开发了一种完全自动化的机制，将服务中的更改直接传递到前端应用程序。这显著提高了效率，避免了诸如在 TypeScript 中手动重写数据模型等任务。\n- **团队领导**：作为前端团队负责人，引入并推行了专业开发实践，包括强制执行 Pull Requests 和遵守开发标准。\n- **DevOps 和部署自动化**：构建了 Azure DevOps 管道，实现了构建和部署操作的自动化，简化了发布流程。\n- **Kubernetes 实施**：在组织中引入并实现了 Kubernetes，以增强可扩展性和编排能力。\n- **技术前沿**：始终紧跟最新的尖端技术，以满足公司不断变化的需求。\n- **与 UX/UI 协作**：与 UX/UI 设计师在指导层面进行协作，以确保设计目标与开发目标一致。\n- **指导与辅导**：为初级同事提供指导和辅导，帮助他们成长和技能发展。\n- **仪表板模块开发**：设计并实现了应用程序的独立仪表板模块，支持动态仪表板创建（类似于 MS Power BI），并具有动态数据源加载功能。\n- **动态页面创建**：设计并实现了一项动态页面创建功能，以满足不断变化的业务需求。\n- **遗留代码现代化**：将旧的 ASP.NET MVC Razor 页面转换为现代 AngularTS 应用程序。维护、重构并重写了使用 ASP.NET MVC、JQuery 和 Bootstrap 编写的旧代码。\n- **创造性问题解决**：为复杂问题提供了创新且高效的解决方案，不断为组织创造价值。\n\n这段全面的经历体现了我对创新、领导力以及在敏捷环境中提供有影响力技术解决方案的承诺。"
+      }
+   },
+   {
+      "company": "ParsJahd Co.",
+      "role": {
+         "en": "Sen. Software Lead Engineer",
+         "fa": "مهندس ارشد نرم‌افزار",
+         "tr": "Kıdemli Yazılım Lider Mühendisi",
+         "de": "Senior Software Lead Engineer",
+         "ar": "مهندس رئيسي للبرمجيات",
+         "zh": "高级软件主管工程师"
+      },
+      "link": "https://parsjahd.com/en/",
+      "location": {
+         "en": "Tehran / Iran",
+         "fa": "تهران / ایران",
+         "tr": "Tahran / İran",
+         "de": "Teheran / Iran",
+         "ar": "طهران / إيران",
+         "zh": "德黑兰 / 伊朗"
+      },
+      "dateEnd": "2019-11-01T00:00:00.000Z",
+      "dateStart": "2018-11-01T00:00:00.000Z",
+      "description": {
+         "en": "ParsJahd Holding is a leading Iranian industrial group specializing in precision instruments, automation, and engineering services, serving industries like oil and gas, petrochemicals, and power generation with innovative and sustainable solutions.\n\n- I worked at DeepStudies Co. (as a dependant company of the holding) as a Senior Web Developer.\n- I developed its commercial website and required applications.",
+         "fa": "هلدینگ پارس‌جهد یک گروه صنعتی پیشرو ایرانی است که در زمینه ابزار دقیق، اتوماسیون و خدمات مهندسی تخصص دارد و به صنایعی مانند نفت و گاز، پتروشیمی و تولید نیرو با ارائه راه‌حل‌های نوآورانه و پایدار خدمات می‌دهد.\n\n- به عنوان توسعه‌دهنده وب ارشد در شرکت DeepStudies (به عنوان یک شرکت وابسته به هلدینگ) کار کردم.\n- وب‌سایت تجاری و برنامه‌های موردنیاز آن را توسعه دادم.",
+         "tr": "ParsJahd Holding, hassas enstrümanlar, otomasyon ve mühendislik hizmetlerinde uzmanlaşmış, petrol ve gaz, petrokimya ve enerji üretimi gibi endüstrilere yenilikçi ve sürdürülebilir çözümler sunan önde gelen bir İran sanayi grubudur.\n\n- DeepStudies Co.'da (holdinge bağlı bir şirket olarak) Kıdemli Web Geliştiricisi olarak çalıştım.\n- Ticari web sitesini ve gerekli uygulamalarını geliştirdim.",
+         "de": "ParsJahd Holding ist eine führende iranische Industriegruppe, die sich auf Präzisionsinstrumente, Automatisierung und Ingenieurdienstleistungen spezialisiert hat. Sie bedient Branchen wie Öl und Gas, Petrochemie und Energieerzeugung mit innovativen und nachhaltigen Lösungen.\n\n- Ich arbeitete bei DeepStudies Co. (als abhängiges Unternehmen der Holding) als Senior Web Developer.\n- Ich entwickelte die kommerzielle Website und die erforderlichen Anwendungen.",
+         "ar": "تعتبر مجموعة بارس جهد القابضة مجموعة صناعية إيرانية رائدة متخصصة في الأجهزة الدقيقة والأتمتة والخدمات الهندسية، وتخدم صناعات مثل النفط والغاز والبتروكيماويات وتوليد الطاقة بحلول مبتكرة ومستدامة.\n\n- عملت في شركة DeepStudies (كشركة تابعة للمجموعة القابضة) كمطور ويب أول.\n- قمت بتطوير الموقع التجاري والتطبيقات المطلوبة.",
+         "zh": "ParsJahd Holding 是一家领先的伊朗工业集团，专注于精密仪器、自动化和工程服务，为石油和天然气、石化和发电等行业提供创新和可持续的解决方案。\n\n- 我在 DeepStudies 公司（作为控股公司的附属公司）担任高级网页开发人员。\n- 我开发了其商业网站和所需的应用程序。"
+      }
+   },
+   {
+      "company": "Farayand Negar Industrial Co.",
+      "role": {
+         "en": "Sen. Software Engineer",
+         "fa": "مهندس ارشد نرم‌افزار",
+         "tr": "Kıdemli Yazılım Mühendisi",
+         "de": "Senior Software Engineer",
+         "ar": "مهندس برمجيات رئيسي",
+         "zh": "高级软件工程师"
+      },
+      "link": "http://farayandnegar.ir/",
+      "location": {
+         "en": "Tehran / Iran",
+         "fa": "تهران / ایران",
+         "tr": "Tahran / İran",
+         "de": "Teheran / Iran",
+         "ar": "طهران / إيران",
+         "zh": "德黑兰 / 伊朗"
+      },
+      "dateEnd": "2018-11-01T00:00:00.000Z",
+      "dateStart": "2017-11-01T00:00:00.000Z",
+      "description": {
+         "en": "FarayandNegar Sanat is an Iranian company specializing in IT consulting, custom software development, and smart city solutions, focusing on process optimization and innovative technologies for municipalities and organizations.\n\n- I worked as a Senior Front-End Developer responsible for creating an application using AngularJS to run as a module in DotNetNuke CMS.\n- The application served primarily as a workflow manager.\n- I significantly improved the application's UI, addressing the lack of a UX/UI designer in the company.",
+         "fa": "فرایندنگر صنعت یک شرکت ایرانی است که در زمینه مشاوره فناوری اطلاعات، توسعه نرم‌افزارهای سفارشی و راه‌حل‌های شهر هوشمند تخصص دارد و بر بهینه‌سازی فرآیندها و فناوری‌های نوآورانه برای شهرداری‌ها و سازمان‌ها تمرکز دارد.\n\n- به عنوان توسعه‌دهنده ارشد فرانت‌اند در این شرکت کار کردم و مسئولیت ایجاد یک برنامه با استفاده از AngularJS برای اجرا به عنوان ماژولی در DotNetNuke CMS را برعهده داشتم.\n- این برنامه عمدتاً به عنوان یک مدیر جریان کار عمل می‌کرد.\n- به طور قابل توجهی رابط کاربری برنامه را بهبود بخشیدم، با توجه به عدم وجود طراح UX/UI در شرکت.",
+         "tr": "FarayandNegar Sanat, BT danışmanlığı, özel yazılım geliştirme ve akıllı şehir çözümleri konusunda uzmanlaşmış bir İran şirketidir. Şirket, belediyeler ve kuruluşlar için süreç optimizasyonu ve yenilikçi teknolojilere odaklanmaktadır.\n\n- AngularJS kullanarak DotNetNuke CMS'de bir modül olarak çalışan bir uygulama oluşturmakla sorumlu Kıdemli Ön Uç Geliştirici olarak çalıştım.\n- Uygulama esas olarak bir iş akışı yöneticisi olarak hizmet veriyordu.\n- Şirkette bir UX/UI tasarımcısı bulunmaması nedeniyle, uygulamanın kullanıcı arayüzünü önemli ölçüde geliştirdim.",
+         "de": "FarayandNegar Sanat ist ein iranisches Unternehmen, das sich auf IT-Beratung, individuelle Softwareentwicklung und Smart-City-Lösungen spezialisiert hat, mit einem Fokus auf Prozessoptimierung und innovative Technologien für Kommunen und Organisationen.\n\n- Ich arbeitete als Senior Front-End-Entwickler und war verantwortlich für die Erstellung einer Anwendung mit AngularJS, die als Modul in DotNetNuke CMS läuft.\n- Die Anwendung diente hauptsächlich als Workflow-Manager.\n- Ich verbesserte die Benutzeroberfläche der Anwendung erheblich, da es im Unternehmen keinen UX/UI-Designer gab.",
+         "ar": "فرایندنگر صنعت هي شركة إيرانية متخصصة في استشارات تكنولوجيا المعلومات، وتطوير البرمجيات المخصصة، وحلول المدن الذكية، مع التركيز على تحسين العمليات والتقنيات المبتكرة للبلديات والمؤسسات.\n\n- عملت كمطور واجهة أمامية أول مسؤول عن إنشاء تطبيق باستخدام AngularJS ليعمل كأحد الوحدات في DotNetNuke CMS.\n- التطبيق كان في الأساس مديرًا لتدفقات العمل.\n- قمت بتحسين واجهة المستخدم للتطبيق بشكل كبير نظرًا لعدم وجود مصمم UX/UI في الشركة.",
+         "zh": "FarayandNegar Sanat 是一家伊朗公司，专注于 IT 咨询、定制软件开发和智慧城市解决方案，为市政和组织提供流程优化和创新技术。\n\n- 我担任高级前端开发人员，负责使用 AngularJS 创建一个应用程序，该应用程序作为模块运行在 DotNetNuke CMS 中。\n- 该应用程序主要用作工作流管理器。\n- 在公司缺乏 UX/UI 设计师的情况下，我显著改进了该应用程序的用户界面。"
+      }
+   },
+   {
+      "company": "Monara International Companies Group",
+      "role": {
+         "en": "Tech. Director of E-Monara",
+         "fa": "مدیر فنی ای-مونارا",
+         "tr": "E-Monara Teknik Direktörü",
+         "de": "Technischer Direktor von E-Monara",
+         "ar": "المدير الفني لـ E-Monara",
+         "zh": "E-Monara 技术总监"
+      },
+      "link": "http://monara.ir/",
+      "location": {
+         "en": "Jolfa / Iran",
+         "fa": "جلفا / ایران",
+         "tr": "Culfa / İran",
+         "de": "Dschulfa / Iran",
+         "ar": "جلفا / إيران",
+         "zh": "朱尔法 / 伊朗"
+      },
+      "dateEnd": "2017-10-01T00:00:00.000Z",
+      "dateStart": "2014-02-01T00:00:00.000Z",
+      "descriptionUrl": "assets/data/job-4.md",
+      "description": {
+         "en": "Due to privacy concerns, details cannot be disclosed.",
+         "fa": "به دلیل مسائل حریم خصوصی، جزئیات قابل افشا نیستند.",
+         "tr": "Gizlilik endişeleri nedeniyle, ayrıntılar açıklanamaz.",
+         "de": "Aufgrund von Datenschutzbedenken können keine Details offengelegt werden.",
+         "ar": "بسبب مخاوف الخصوصية، لا يمكن الكشف عن التفاصيل.",
+         "zh": "由于隐私问题，无法披露详细信息。"
+      }
+   },
+   {
+      "company": "Dadash Baradar Industrial Co. (Shoniz)",
+      "role": {
+         "en": "Sen. WPF Developer",
+         "fa": "توسعه‌دهنده ارشد WPF",
+         "tr": "Kıdemli WPF Geliştiricisi",
+         "de": "Senior WPF Entwickler",
+         "ar": "مطور WPF رئيسي",
+         "zh": "高级 WPF 开发人员"
+      },
+      "link": "https://shoniz.com/en/",
+      "location": {
+         "en": "Tabriz / Iran",
+         "fa": "تبریز / ایران",
+         "tr": "Tebriz / İran",
+         "de": "Täbris / Iran",
+         "ar": "تبريز / إيران",
+         "zh": "大不里士 / 伊朗"
+      },
+      "dateEnd": "2014-02-01T00:00:00.000Z",
+      "dateStart": "2011-06-01T00:00:00.000Z",
+      "descriptionUrl": "assets/data/job-5.md",
+      "description": {
+         "en": "Shoniz, also known as Dadash Baradar Industrial Company, is a leading Iranian confectionery brand headquartered in Tabriz. Since 1945, it has been producing chocolates, toffees, wafers, and candies, establishing a strong presence both domestically and internationally.\n\n- Took on the roles of business analyst, architect, and developer in designing and building a CMMS (Computerized Maintenance Management System) using .NET and WPF.\n- Wrote and optimized SQL queries to enhance performance, implementing a DB-first approach.\n- Mentored junior colleagues, fostering their development and collaboration.",
+         "fa": "شونیز، که به عنوان شرکت صنعتی داداش برادر نیز شناخته می‌شود، یک برند پیشرو شیرینی‌سازی ایرانی مستقر در تبریز است. از سال ۱۹۴۵ تاکنون، این شرکت به تولید شکلات، تافی، ویفر و آب‌نبات پرداخته و حضوری قدرتمند در داخل و خارج از کشور دارد.\n\n- در طراحی و ساخت یک CMMS (سیستم مدیریت تعمیرات مکانیزه) با استفاده از .NET و WPF به عنوان تحلیلگر کسب‌وکار، معمار و توسعه‌دهنده نقش ایفا کردم.\n- کوئری‌های SQL را برای بهبود عملکرد نوشت و بهینه‌سازی کردم و راهکار DB-first را پیاده‌سازی کردم.\n- به عنوان راهنما با همکاران تازه‌کار همکاری کرده و به رشد و توسعه آنها کمک کردم.",
+         "tr": "Shoniz, ya da Dadash Baradar Industrial Company, Tahran merkezli önde gelen bir İran şekerleme markasıdır. 1945 yılından bu yana çikolata, şekerleme, gofret ve şeker üretimi yaparak hem yurtiçinde hem de yurtdışında güçlü bir varlık oluşturmuştur.\n\n- .NET ve WPF kullanarak bir CMMS (Bilgisayarlı Bakım Yönetim Sistemi) tasarımında ve geliştirilmesinde iş analisti, mimar ve geliştirici olarak görev aldım.\n- Performansı artırmak için SQL sorguları yazdım ve optimize ettim, DB-first yaklaşımını uyguladım.\n- Daha genç meslektaşlarıma rehberlik ederek işbirliği ve gelişimlerini destekledim.",
+         "de": "Shoniz, auch bekannt als Dadash Baradar Industrial Company, ist eine führende iranische Süßwarenmarke mit Sitz in Tabriz. Seit 1945 produziert das Unternehmen Schokolade, Toffees, Waffeln und Bonbons und hat sich sowohl national als auch international einen starken Ruf aufgebaut.\n\n- Übernahm die Rollen eines Business-Analysten, Architekten und Entwicklers bei der Entwicklung eines CMMS (Computerized Maintenance Management System) mit .NET und WPF.\n- Schrieb und optimierte SQL-Abfragen, um die Leistung zu steigern, und implementierte einen DB-first-Ansatz.\n- Mentoring von Junior-Kollegen zur Förderung ihrer Entwicklung und Zusammenarbeit.",
+         "ar": "شونيز، والمعروفة أيضًا باسم شركة داداش برادر الصناعية، هي علامة تجارية إيرانية رائدة في صناعة الحلويات ومقرها تبريز. منذ عام 1945، تنتج الشركة الشوكولاتة، والتوفي، والويفر، والحلويات ولها حضور قوي في السوق المحلية والدولية.\n\n- لعبت دور محلل أعمال، ومهندس معماري، ومطور في تصميم وبناء نظام إدارة الصيانة المحوسب (CMMS) باستخدام .NET وWPF.\n- كتبت وقمت بتحسين استعلامات SQL لتحسين الأداء، مع تطبيق نهج DB-first.\n- قدمت الإرشاد للزملاء الجدد وساعدت في تطويرهم وتعزيز التعاون.",
+         "zh": "Shoniz，也被称为 Dadash Baradar 工业公司，是一家总部位于大不里的领先伊朗糖果品牌。自 1945 年以来，该公司生产巧克力、太妃糖、威化饼和糖果，在国内和国际市场上都拥有强大的影响力。\n\n- 扮演业务分析师、架构师和开发人员的角色，使用 .NET 和 WPF 设计和构建了一个计算机化维护管理系统（CMMS）。\n- 编写和优化 SQL 查询以提高性能，实施了 DB-first 方法。\n- 指导初级同事，促进他们的成长和团队协作。"
+      }
+   },
+   {
+      "company": "Arvin Fayyar - Workshop",
+      "role": {
+         "en": "Project Analyzor & Architecture & WPF Developer",
+         "fa": "تحلیلگر پروژه و معمار و توسعه‌دهنده WPF",
+         "tr": "Proje Analizörü ve Mimarı ve WPF Geliştiricisi",
+         "de": "Projektanalyst & Architekt & WPF Entwickler",
+         "ar": "محلل المشروع والمعماري ومطور WPF",
+         "zh": "项目分析师和架构师和 WPF 开发人员"
+      },
+      "location": {
+         "en": "Asalouyeh / Iran",
+         "fa": "عسلویه / ایران",
+         "tr": "Asaluye / İran",
+         "de": "Asaluyeh / Iran",
+         "ar": "عسلوية / إيران",
+         "zh": "阿萨卢耶 / 伊朗"
+      },
+      "dateEnd": "2011-02-01T00:00:00.000Z",
+      "dateStart": "2009-11-01T00:00:00.000Z",
+      "descriptionUrl": "assets/data/job-6.md",
+      "description": { "en": "", "fa": "", "tr": "", "de": "", "ar": "", "zh": "" }
+   },
+   {
+      "company": "Bahar Non-Profit University of Mashhad",
+      "role": {
+         "en": "Experienced Lead .NET Developer",
+         "fa": "توسعه‌دهنده ارشد .NET",
+         "tr": "Deneyimli Kıdemli .NET Geliştiricisi",
+         "de": "Erfahrener Lead .NET Entwickler",
+         "ar": "مطور رئيسي .NET ذو خبرة",
+         "zh": "经验丰富的 .NET 首席开发人员"
+      },
+      "link": "http://baharihe.ac.ir/",
+      "location": {
+         "en": "Mashhad / Iran",
+         "fa": "مشهد / ایران",
+         "tr": "Meşhed / İran",
+         "de": "Maschhad / Iran",
+         "ar": "مشهد / إيران",
+         "zh": "马什哈德 / 伊朗"
+      },
+      "dateEnd": "2009-11-01T00:00:00.000Z",
+      "dateStart": "2005-07-01T00:00:00.000Z",
+      "descriptionUrl": "assets/data/job-7.md",
+      "description": { "en": "", "fa": "", "tr": "", "de": "", "ar": "", "zh": "" }
+   }
+]

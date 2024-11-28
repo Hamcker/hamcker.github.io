@@ -1,0 +1,38 @@
+{
+   "pageTitle": "H. Zakeri Miyab | Resume",
+   "summary": "Summary",
+   "married": "Married",
+   "single": "Single",
+   "needVisa": "Need Visa & Sponsorship",
+   "haveVisa": "Already have EU's Work Visa",
+   "languageSkills": "Language Skills",
+   "languages": {
+      "en-US": "English",
+      "en-US_desc": "",
+      "fa-IR": "Persian",
+      "fa-IR_desc": "فارسی",
+      "az-AZ": "Azerbaijani",
+      "az-AZ_desc": "Azərbaycanca",
+      "tr-TR": "Turkish",
+      "tr-TR_desc": "Türkçe",
+      "zh-CN": "Chinese",
+      "zh-CN_desc": "中文"
+   },
+   "socialMedia": "Social Media",
+   "educations": "Educations",
+   "levels": {
+      "0": "Unfamiliar",
+      "1": "Beginner",
+      "2": "Novice",
+      "3": "Competent",
+      "4": "Proficient",
+      "5": "Expert"
+   },
+   "experiences": "Experiences",
+   "projects": "Projects",
+   "role": "Role",
+   "challenges": "Technical Challenges",
+   "skills": "Skills",
+   "print_slogan": "Trust me! This page is print-friendly (A4), click to see the magic!",
+   "print": "Print"
+}

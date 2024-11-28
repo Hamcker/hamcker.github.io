@@ -1,0 +1,38 @@
+{
+   "pageTitle": "H. Zakeri Miyab | Özgeçmiş",
+   "summary": "Özet",
+   "married": "Evli",
+   "single": "Bekar",
+   "needVisa": "Vize ve Sponsorluğa İhtiyaç Var",
+   "haveVisa": "AB Çalışma Vizesine Sahibim",
+   "languageSkills": "Dil Yetenekleri",
+   "languages": {
+      "en-US": "İngilizce",
+      "en-US_desc": "English",
+      "fa-IR": "Farsça",
+      "fa-IR_desc": "فارسی",
+      "az-AZ": "Azerice",
+      "az-AZ_desc": "Azərbaycanca",
+      "tr-TR": "Türkçe",
+      "tr-TR_desc": "Türkçe",
+      "zh-CN": "Çince",
+      "zh-CN_desc": "中文"
+   },
+   "socialMedia": "Sosyal Medya",
+   "educations": "Eğitimler",
+   "levels": {
+      "0": "Tanıdık Değil",
+      "1": "Başlangıç",
+      "2": "Acemi",
+      "3": "Yetkin",
+      "4": "Uzman",
+      "5": "Usta"
+   },
+   "experiences": "Deneyimler",
+   "projects": "Projeler",
+   "role": "Rol",
+   "challenges": "Teknik Zorluklar",
+   "skills": "Beceriler",
+   "print_slogan": "Bana güven! Bu sayfa yazdırmaya uygun (A4), sihri görmek için tıkla!",
+   "print": "Yazdır"
+}

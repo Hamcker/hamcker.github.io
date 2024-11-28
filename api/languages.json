@@ -1,0 +1,8 @@
+[
+   { "code": "en", "name": "English", "dir": "ltr" },
+   { "code": "tr", "name": "Türkçe", "dir": "ltr" },
+   { "code": "de", "name": "Deutsch", "dir": "ltr" },
+   { "code": "zh", "name": "中文", "dir": "ltr" },
+   { "code": "ar", "name": "العربیه", "dir": "rtl" },
+   { "code": "fa", "name": "فارسی", "dir": "rtl" }
+]
