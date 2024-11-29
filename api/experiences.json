@@ -2,6 +2,7 @@
    {
       "company": "Ninox Gmbh.",
       "link": "https://ninox.com/en",
+      "hide": true,
       "role": {
          "en": "Sen. Full-Stack Developer (Freelancer)",
          "fa": "توسعه‌دهنده فول‌استک ارشد (فریلنسر)",

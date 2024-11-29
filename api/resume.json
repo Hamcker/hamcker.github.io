@@ -646,6 +646,8 @@
             { "name": "SQL-Server & MongoDB", "level": 4 },
             { "name": "gRPC", "level": 4 },
             { "name": "Git", "level": 4 },
+            { "name": "Redis", "level": 3 },
+            { "name": "PostgreSQL", "level": 3 },
             { "name": "BPMN", "level": 3 }
          ]
       }
