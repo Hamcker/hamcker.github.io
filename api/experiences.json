@@ -1,35 +1,5 @@
 [
    {
-      "company": "Ninox Gmbh.",
-      "link": "https://ninox.com/en",
-      "hide": true,
-      "role": {
-         "en": "Sen. Full-Stack Developer (Freelancer)",
-         "fa": "توسعه‌دهنده فول‌استک ارشد (فریلنسر)",
-         "tr": "Kıdemli Tam Yığın Geliştirici (Freelancer)",
-         "de": "Senior Full-Stack Entwickler (Freiberufler)",
-         "ar": "مطور شامل أول (عمل حر)",
-         "zh": "高级全栈开发人员（自由职业者）"
-      },
-      "location": {
-         "en": "Berlin / Germany",
-         "fa": "برلین / آلمان",
-         "tr": "Berlin / Almanya",
-         "de": "Berlin / Deutschland",
-         "ar": "برلين / ألمانيا",
-         "zh": "柏林 / 德国"
-      },
-      "dateStart": "2022-05-04T00:00:00.000Z",
-      "description": {
-         "en": "Ninox is a cloud-based, no-code platform designed for creating customizable business applications and databases. It empowers users to streamline workflows, automate processes, and manage data effectively, offering tools for collaboration, reporting, and integration without requiring extensive programming knowledge.\n\nI started to work as a Front-End developer at Ninox, then transitioned to the Back-End team. During my tenure, I achieved the following milestones:\n\n- **As a Front-End Developer**:\n  - Implemented a table component as the onboarding project, enabling the editing of tabular data with multiple cell-editor types.\n  - Fixed bugs and contributed to code maintenance.\n  - Improved code quality by migrating from JQuery to React.\n  - Ensured code maintainability by writing unit and integration tests.\n\n- **As a Back-End Developer**:\n  - Developed and maintained the User Management service by adding new features and resolving issues.\n  - Wrote tests to ensure smooth functionality after every refactoring.",
-         "fa": "Ninox یک پلتفرم بدون کدنویسی مبتنی بر ابر است که برای ایجاد برنامه‌های کسب‌وکار قابل تنظیم و پایگاه‌های داده طراحی شده است. این پلتفرم به کاربران امکان می‌دهد جریان‌های کاری را ساده کنند، فرآیندها را خودکار کنند و داده‌ها را به طور مؤثر مدیریت کنند و ابزارهایی برای همکاری، گزارش‌گیری و یکپارچه‌سازی بدون نیاز به دانش گسترده برنامه‌نویسی ارائه می‌دهد.\n\nمن کار خود را به عنوان توسعه‌دهنده فرانت‌اند در Ninox آغاز کردم و سپس به تیم بک‌اند منتقل شدم. در این مدت، به دستاوردهای زیر رسیدم:\n\n- **به عنوان توسعه‌دهنده فرانت‌اند**:\n  - یک کامپوننت جدول به عنوان پروژه ورود، پیاده‌سازی کردم که امکان ویرایش داده‌های جدولی با چندین نوع ویرایشگر سلول را فراهم می‌کرد.\n  - باگ‌ها را رفع و در نگهداری کدها کمک کردم.\n  - کیفیت کد را با مهاجرت از JQuery به React بهبود دادم.\n  - با نوشتن تست‌های واحد و یکپارچه، کدهای قابل نگهداری ایجاد کردم.\n\n- **به عنوان توسعه‌دهنده بک‌اند**:\n  - سرویس مدیریت کاربران را با افزودن ویژگی‌های جدید و رفع مشکلات، توسعه و نگهداری کردم.\n  - تست‌هایی نوشتم تا مطمئن شوم که هر بازسازی به درستی کار می‌کند.",
-         "tr": "Ninox, özelleştirilebilir iş uygulamaları ve veritabanları oluşturmak için tasarlanmış bulut tabanlı, kodsuz bir platformdur. Kullanıcıların iş akışlarını kolaylaştırmalarını, süreçleri otomatikleştirmelerini ve verileri etkili bir şekilde yönetmelerini sağlar. Ayrıca, kapsamlı programlama bilgisi gerektirmeden işbirliği, raporlama ve entegrasyon araçları sunar.\n\nNinox'ta ön uç geliştiricisi olarak çalışmaya başladım ve ardından Arka Uç ekibine geçtim. Görev sürem boyunca şu başarıları elde ettim:\n\n- **Ön Uç Geliştiricisi olarak**:\n  - Tablosal verilerin birden çok hücre düzenleyici türü ile düzenlenmesini sağlayan bir tablo bileşeni uyguladım.\n  - Hataları düzelttim ve kodların bakımına yardımcı oldum.\n  - Kod kalitesini JQuery'den React'e geçerek iyileştirdim.\n  - Birim ve entegrasyon testleri yazarak sürdürülebilir kodlar yazdım.\n\n- **Arka Uç Geliştiricisi olarak**:\n  - Kullanıcı Yönetimi hizmetini yeni özellikler ekleyerek ve sorunları çözerek geliştirdim ve bakımını yaptım.\n  - Yeniden düzenlemeden sonra her şeyin düzgün çalıştığından emin olmak için testler yazdım.",
-         "de": "Ninox ist eine cloudbasierte, codefreie Plattform zur Erstellung anpassbarer Geschäftsanwendungen und Datenbanken. Sie ermöglicht es Benutzern, Arbeitsabläufe zu optimieren, Prozesse zu automatisieren und Daten effektiv zu verwalten. Außerdem bietet sie Werkzeuge für Zusammenarbeit, Berichterstellung und Integration, ohne umfangreiche Programmierkenntnisse zu erfordern.\n\nIch begann als Frontend-Entwickler bei Ninox zu arbeiten und wechselte später in das Backend-Team. Während meiner Tätigkeit habe ich die folgenden Meilensteine erreicht:\n\n- **Als Frontend-Entwickler**:\n  - Implementierung einer Tabellenkomponente als Onboarding-Projekt, die die Bearbeitung tabellarischer Daten mit verschiedenen Zell-Editor-Typen ermöglichte.\n  - Fehler behoben und zur Codewartung beigetragen.\n  - Verbesserung der Codequalität durch Migration von JQuery zu React.\n  - Sicherstellung der Wartbarkeit des Codes durch Schreiben von Unit- und Integrationstests.\n\n- **Als Backend-Entwickler**:\n  - Entwicklung und Wartung des Benutzermanagement-Dienstes durch Hinzufügen neuer Funktionen und Behebung von Problemen.\n  - Schreiben von Tests, um sicherzustellen, dass jede Umstrukturierung reibungslos funktioniert.",
-         "ar": "Ninox هو منصة بدون كود قائمة على السحابة مصممة لإنشاء تطبيقات وقواعد بيانات أعمال قابلة للتخصيص. تمكن المستخدمين من تبسيط تدفقات العمل، وأتمتة العمليات، وإدارة البيانات بفعالية، مع توفير أدوات للتعاون، وإعداد التقارير، والتكامل دون الحاجة إلى معرفة برمجية واسعة.\n\nبدأت العمل كمطور واجهة أمامية في Ninox، ثم انتقلت إلى فريق الخلفية. خلال فترة عملي، حققت الإنجازات التالية:\n\n- **كمطور واجهة أمامية**:\n  - تنفيذ مكون جدول كمشروع تقديمي يتيح تحرير البيانات الجدولية باستخدام أنواع تحرير خلايا متعددة.\n  - إصلاح الأخطاء والمساعدة في صيانة الأكواد.\n  - تحسين جودة الأكواد من خلال الانتقال من JQuery إلى React.\n  - كتابة أكواد قابلة للصيانة من خلال كتابة اختبارات الوحدة والاندماج.\n\n- **كمطور خلفية**:\n  - تطوير وصيانة خدمة إدارة المستخدمين من خلال إضافة ميزات جديدة وحل المشكلات.\n  - كتابة اختبارات لضمان عمل التعديلات بشكل صحيح بعد كل عملية إعادة هيكلة.",
-         "zh": "Ninox 是一个基于云的无代码平台，旨在创建可自定义的业务应用程序和数据库。它使用户能够简化工作流程、自动化操作并有效管理数据，同时提供协作、报告和集成工具，无需广泛的编程知识。\n\n我在 Ninox 开始担任前端开发人员，然后转到后端团队。任职期间，我取得了以下成就：\n\n- **作为前端开发人员**：\n  - 实现了一个表格组件作为入职项目，该组件支持使用多种单元编辑器类型编辑表格数据。\n  - 修复了代码中的错误并协助维护代码。\n  - 通过将代码从 JQuery 迁移到 React，提高了代码质量。\n  - 通过编写单元测试和集成测试，确保了代码的可维护性。\n\n- **作为后端开发人员**：\n  - 通过添加新功能和修复问题，开发并维护了用户管理服务。\n  - 编写了测试，以确保每次重构后系统功能正常运行。"
-      }
-   },
-   {
       "company": "AnyWork Gmbh.",
       "role": {
          "en": "Sen. Front-End Lead Engineer",
